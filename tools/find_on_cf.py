@@ -14,7 +14,10 @@ for name in names:
     # shader and resource packs are often tagged with older versions only
     subprocess.run(['packwiz', 'settings', 'acceptable-versions',
                     '26.1,26.1.1,26.2,26.3,1.21.11,1.21.10,1.21.9,1.21.8,1.21.7,1.21.6,1.21.5,1.21.4,1.21'],
-                   cwd=work, check=True, capture_output=True)
+                   cwd=work, capture_output=True, text=True)
+    p = subprocess.run(['packwiz', '-y', 'settings', 'acceptable-versions', '26.1,26.1.1,1.21.11'],
+                       cwd=work, capture_output=True, text=True)
+    print('settings:', p.returncode, p.stdout, p.stderr)
     p = subprocess.run(['packwiz', '-y', 'curseforge', 'add', name], cwd=work, capture_output=True, text=True)
     log = (p.stdout + p.stderr).strip().splitlines()
     found = []
