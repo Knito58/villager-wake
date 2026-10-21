@@ -8,6 +8,8 @@ python3 tools/fetch_jars.py prism-index pack/mods
 cd pack
 packwiz init --name "Villager Wake" --author Konitor --version 2.0.0 \
   --mc-version 26.1.2 --modloader fabric --fabric-version 0.19.3 -r
+# many files are tagged 26.1 or 26.1.1 only; they run on 26.1.2 too
+packwiz settings acceptable-versions 26.1,26.1.1
 packwiz curseforge detect | tee "$ROOT/detect.log"
 # jars CurseForge did not recognise by fingerprint are not kept
 find mods -name '*.jar' -print -delete > "$ROOT/unmatched.txt"
@@ -23,13 +25,13 @@ REPORT="$ROOT/reports/make-pack.md"
 } > "$REPORT"
 
 add() {
-  if out=$(packwiz -y curseforge add "$@" 2>&1); then r="ok: $(echo "$out" | grep -m1 'successfully added' || echo added)"
+  if out=$(packwiz -y curseforge add "$@" 2>&1); then r="ok: $(echo "$out" | grep -m1 '^Project .*successfully added' || echo added)"
   else r="FAILED: $(echo "$out" | tail -1)"; fi
   echo "| $* | ${r//|//} |" >> "$REPORT"
 }
 # mods on CurseForge, but not with the same file as in the Modrinth pack
 for s in advancedfurnacey blooming-biosphere clientsort colossal-chests commandkeys cyclops-core \
-         farming-for-blockheads modernfix-mvus player-armor-stands resourcestrees shogi storage-pots \
+         farming-for-blockheads modernfix-mvus player-armor-stands resourcestrees shogi \
          useful-structures villager-guards capabilityproxy everlastingabilities structure-tools-continued \
          bobby craftable-horse-armor; do
   add "$s"
