@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/thief-client.toml"
+hash = "50118c3a915128689b10e8d824df7d1cd7e6ce8eb329c6f53147a6fa684b0733"
+
+[[files]]
+file = "config/thief-server.toml"
+hash = "d84e14878ff9646c851732eae94b4664c6da43688dc292a81552779b39739ae6"
+
+[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "de287c9a40a11589b15bbc04d731891c7b1b47559bad456fed86eabec00b8f01"
 metafile = true
