@@ -7,7 +7,7 @@ Matched by fingerprint: 158. Not matched (left out unless added below): 35
 | advancedfurnacey | FAILED: Failed to get file for project: mod not available for the configured Minecraft version(s) (use the 'packwiz settings acceptable-versions' command to accept more) or loader |
 | blooming-biosphere | FAILED: Failed to get file for project: mod not available for the configured Minecraft version(s) (use the 'packwiz settings acceptable-versions' command to accept more) or loader |
 | clientsort | ok: Project "Client Sort" successfully added! (clientsort-fabric-3.102.8+26.1.2.jar) |
-| colossal-chests | ok: Dependency "Cyclops Core" successfully added! (cyclopscore-26.1.2-fabric-1.31.3.jar) |
+| colossal-chests | ok: Project "Colossal Chests" successfully added! (colossalchests-26.1.2-fabric-1.9.1-20.jar) |
 | commandkeys | ok: Project "Command Keys" successfully added! (commandkeys-fabric-3.102.5+26.1.2.jar) |
 | cyclops-core | ok: Project "Cyclops Core" successfully added! (cyclopscore-26.1.2-fabric-1.31.3.jar) |
 | farming-for-blockheads | ok: Project "Farming for Blockheads" successfully added! (farmingforblockheads-fabric-26.1.2-26.1.2.5.jar) |
@@ -15,15 +15,14 @@ Matched by fingerprint: 158. Not matched (left out unless added below): 35
 | player-armor-stands | ok: Project "Player Armor Stands" successfully added! (pas-0.9.4-FBR-26.1.jar) |
 | resourcestrees | ok: Project "Resources Trees" successfully added! (resourcestrees-fabric-26.1.2-26.1.2.203.jar) |
 | shogi | ok: Project "Shogi" successfully added! (shogi-fabric-26.1.2-26.1.2.12.jar) |
-| storage-pots | ok: Project "Storage Pots" successfully added! (StoragePots-v2.3.11.zip) |
 | useful-structures | FAILED: Failed to get file for project: mod not available for the configured Minecraft version(s) (use the 'packwiz settings acceptable-versions' command to accept more) or loader |
 | villager-guards | ok: Project "Villager Guards (Fabric/Forge/NeoForge/Quilt)" successfully added! (villager-guards-v1.15.jar) |
 | capabilityproxy | ok: Project "CapabilityProxy" successfully added! (capabilityproxy-26.1.2-fabric-2.2.3-230.jar) |
 | everlastingabilities | ok: Project "EverlastingAbilities" successfully added! (everlastingabilities-26.1.2-fabric-2.5.10-398.jar) |
 | structure-tools-continued | ok: Project "St'ructure Tools Continued (Building Gadget)" successfully added! ([26.1.2] structure-tools-continued-1.2.3.jar) |
 | bobby | ok: Project "Bobby" successfully added! (bobby-5.2.13+mc26.1.jar) |
-| craftable-horse-armor | FAILED: Failed to get file for project: mod not available for the configured Minecraft version(s) (use the 'packwiz settings acceptable-versions' command to accept more) or loader |
-| --addon-id 1757335 | ok: Project "Create: Nerfad – Not Enough Recipes For A Dummy" successfully added! (create_nerfad-1-2-12.jar) |
+| craftable-horse-armor | ok: Project "Craftable Horse Armor" successfully added! (Craftable_Horse_Armor_v1.0.0.zip) |
+| --addon-id 1757335 | FAILED: Failed to get file for project: mod not available for the configured Minecraft version(s) (use the 'packwiz settings acceptable-versions' command to accept more) or loader |
 
 ## Jars left out
 

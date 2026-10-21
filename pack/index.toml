@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "craftable-horse-armor.pw.toml"
+hash = "8c69e31a6e159cb56524db7f9333d39677d540034817dd439db94cc3c2bd2805"
+metafile = true
+
+[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "de287c9a40a11589b15bbc04d731891c7b1b47559bad456fed86eabec00b8f01"
 metafile = true
@@ -148,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/create-fly.pw.toml"
 hash = "069237108dd259e67fbac6f49058df596e256be51b15a23b1ae4987963474479"
-metafile = true
-
-[[files]]
-file = "mods/create-nerfad-not-enough-recipes-for-a-dummy.pw.toml"
-hash = "b117e1373771a8165f1660e1e3e11e669c6503c86bafafbe987eeea797cf995f"
 metafile = true
 
 [[files]]
@@ -858,9 +858,4 @@ metafile = true
 [[files]]
 file = "mods/ziplines-rezipped.pw.toml"
 hash = "536ba8fbeb1fbd4f29c422e8c9926c7afdfbb9f06d333b51da481fefe2bdd147"
-metafile = true
-
-[[files]]
-file = "storage-pots.pw.toml"
-hash = "80cf7bc1b9a3aa2092cb801a13f43cffe8cab6d81b111fd981b47aae2269d8a9"
 metafile = true

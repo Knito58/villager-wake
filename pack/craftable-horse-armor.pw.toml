@@ -1,0 +1,13 @@
+name = "Craftable Horse Armor"
+filename = "Craftable_Horse_Armor_v1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2296ed85623103baa3e902a864a59c78ff1f68e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7884665
+project-id = 1506250
