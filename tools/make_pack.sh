@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # One-off: turn the Prism (Modrinth) mod list into a packwiz pack that uses CurseForge only.
-# Result: pack/ (pack.toml, index.toml, mods/*.pw.toml) and reports/make-pack.md
+# Result: pack/ (pack.toml, index.toml, mods/*.pw.toml, config files from overrides/),
+# reports/make-pack.md and the CurseForge modpack zip in dist/
 set -u
 ROOT=$(pwd)
 rm -rf pack && mkdir -p pack
@@ -44,4 +45,8 @@ add --addon-id 1757335   # Create: Nerfad
   echo
   sed 's/^mods\//- /' "$ROOT/unmatched.txt"
 } >> "$REPORT"
+# settings that belong to the pack (only what was changed on purpose)
+cp -r "$ROOT/overrides/." .
 packwiz refresh
+mkdir -p "$ROOT/dist"
+packwiz curseforge export -o "$ROOT/dist/villager-wake-2.0.0.zip"
