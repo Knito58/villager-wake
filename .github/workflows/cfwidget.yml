@@ -1,0 +1,28 @@
+name: Look up CurseForge projects
+
+on:
+  workflow_dispatch:
+    inputs:
+      paths:
+        description: "CurseForge URL paths like minecraft/shaders/complementary-reimagined, separated by ;"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  lookup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: look up
+        env:
+          PATHS: ${{ inputs.paths }}
+        run: python3 tools/cfwidget.py "$PATHS" reports/curseforge-lookup.md
+      - name: commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/curseforge-lookup.md
+          git commit -m "CurseForge lookup report" || echo "no change"
+          git push
