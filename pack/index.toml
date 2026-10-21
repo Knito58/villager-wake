@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "craftable-horse-armor.pw.toml"
-hash = "8c69e31a6e159cb56524db7f9333d39677d540034817dd439db94cc3c2bd2805"
-metafile = true
-
-[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "de287c9a40a11589b15bbc04d731891c7b1b47559bad456fed86eabec00b8f01"
 metafile = true
