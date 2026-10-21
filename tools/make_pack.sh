@@ -33,7 +33,7 @@ add() {
 for s in advancedfurnacey blooming-biosphere clientsort colossal-chests commandkeys cyclops-core \
          farming-for-blockheads modernfix-mvus player-armor-stands resourcestrees shogi \
          useful-structures villager-guards capabilityproxy everlastingabilities structure-tools-continued \
-         bobby craftable-horse-armor; do
+         bobby; do
   add "$s"
 done
 add --addon-id 1757335   # Create: Nerfad
