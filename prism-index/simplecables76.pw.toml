@@ -1,0 +1,29 @@
+filename = 'simplecables76-1.0.3.261.jar'
+name = 'Simple Cables'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2', '26.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.3.261-fabric'
+
+[download]
+hash = 'faa38a3a383eb169c7a04af84ffc5babab3abd8f87e36f5977f40fe12e461b7210bf9fc3bb6a991c48a02258813f7ee33b08679661c2ceef26fd2f177e2daa16'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/i6TTVhAZ/versions/RlQoPHIG/simplecables76-1.0.3.261.jar'
+
+[update.modrinth]
+mod-id = 'i6TTVhAZ'
+version = 'RlQoPHIG'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uNRoUnGT'
+type = 'REQUIRED'

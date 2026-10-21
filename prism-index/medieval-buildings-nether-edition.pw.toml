@@ -1,0 +1,18 @@
+filename = 'medieval_nether-fabric-26.1.2-1.2.1.jar'
+name = 'Medieval Buildings [Nether Edition]'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.1'
+
+[download]
+hash = '89e53dc37004ff8a792a3d35ccdd26e0d3117edefa25d799a5214fd3f4ced4783090ce7f140b2a3b8d3e2d5e4c8a974467503329b5079b5130786fd058abaf39'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9zKI9xOD/versions/ooLh8Dkw/medieval_nether-fabric-26.1.2-1.2.1.jar'
+
+[update.modrinth]
+mod-id = '9zKI9xOD'
+version = 'ooLh8Dkw'

@@ -1,0 +1,21 @@
+filename = 'playerplates-fabric-26.1.2.2.jar'
+name = 'Player Plates (Obsidian Plates)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2.2'
+
+[download]
+hash = '7db1fa4f02fdace8d593fa6476cb269ec8a0ce31f527e6d1394a7d504b7ca6d3dd2fa866a74e71c17a50f9d5846840d0156e16bab40a3ee1ebcf715b2422486a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ADYYN3JG/versions/ArVpPRGO/playerplates-fabric-26.1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'ADYYN3JG'
+version = 'ArVpPRGO'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

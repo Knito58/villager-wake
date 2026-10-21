@@ -1,0 +1,18 @@
+filename = 'advanced-furnace-fabric-26.1.2-1.0.1.jar'
+name = 'AdvancedFurnaceY'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = 'c1637591d924d3ccd446e1cc70163a5c320a401dd524aa8d2d9b61f43e41bd228f3d3bb98ab20b4d50de60d3ec19ef6e4d9ae96ba00d62e8e5430a830a4376ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/87PuDuCS/versions/rO5z0hqe/advanced-furnace-fabric-26.1.2-1.0.1.jar'
+
+[update.modrinth]
+mod-id = '87PuDuCS'
+version = 'rO5z0hqe'

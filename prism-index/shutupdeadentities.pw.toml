@@ -1,0 +1,18 @@
+filename = 'shutupdeadentities-mc26.1+1.2.jar'
+name = 'Shut Up Dead Entities'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2'
+
+[download]
+hash = '038ad6b05fb9bde2010e97b39e6ed4ad1ce03b69002a610be8328fa0eb739de368d6a028a4d290b9016b58283aed8feaf01a4842e44587ee6c5f593cf7403fc5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9FJiZMp8/versions/g7whBV1W/shutupdeadentities-mc26.1%2B1.2.jar'
+
+[update.modrinth]
+mod-id = '9FJiZMp8'
+version = 'g7whBV1W'

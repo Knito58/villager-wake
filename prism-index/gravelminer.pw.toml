@@ -1,0 +1,25 @@
+filename = 'gravelminer-fabric-26.1-26.1.0.1.jar'
+name = 'GravelMiner'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.0.1+fabric-26.1'
+
+[download]
+hash = 'a933e1d4f4549cb6c83af8d32b11fe16f4d15fd596ab5c0a05a9198cb24b59ef9679645e84b4566912eba91cc9d08cc9a21798e466135d9a14e0ed4f408e915b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iAzrhsju/versions/sCj7RvLx/gravelminer-fabric-26.1-26.1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'iAzrhsju'
+version = 'sCj7RvLx'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

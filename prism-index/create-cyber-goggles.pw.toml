@@ -1,0 +1,25 @@
+filename = 'CreateCyberGoggles-26.1.2-7.0.0-Fabric.jar'
+name = 'Create: Cyber Goggles'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-7.0.0-Fabric'
+
+[download]
+hash = '35953479085cb5fb2671cb3564a3dea04ddb0175993cb7684590d5d87ef22272b696ee7e3964f733c7d472f7dd88552ad5235e18f9bce644f8625fa90d7836f6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TlQAWQCY/versions/BLIXiemd/CreateCyberGoggles-26.1.2-7.0.0-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'TlQAWQCY'
+version = 'BLIXiemd'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'dKvj0eNn'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'

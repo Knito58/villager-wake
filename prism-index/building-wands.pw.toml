@@ -1,0 +1,18 @@
+filename = 'wands-3.1.0.jar'
+name = 'Building Wands'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.1.0'
+
+[download]
+hash = 'd8d0d55035bff7cb7748cff0bb100a39f2d511384cf2db195f3cc659a4d96991f75bc87efac48ecf2f43751112dfbcd209117eabf09d679eec3d825f07ca3b74'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XkisZUfp/versions/N2CtXUMy/wands-3.1.0.jar'
+
+[update.modrinth]
+mod-id = 'XkisZUfp'
+version = 'N2CtXUMy'

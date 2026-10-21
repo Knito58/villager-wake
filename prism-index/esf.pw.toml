@@ -1,0 +1,25 @@
+filename = 'entity_sound_features-0.8.2-26.1-fabric.jar'
+name = '[ESF] Entity Sound Features'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.8.2-fabric-26.1'
+
+[download]
+hash = '9b5f604af03ff829f819d12c77acc36e3891a2735a2dac2c2aa862d307541b90813839d1133478561ca60ec61bba84433e40ee674b8ef23e6614119851c7e87e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IMuO8COj/versions/wLbaCWaA/entity_sound_features-0.8.2-26.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'IMuO8COj'
+version = 'wLbaCWaA'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4I1XuqiY'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BVzZfTc1'
+type = 'REQUIRED'

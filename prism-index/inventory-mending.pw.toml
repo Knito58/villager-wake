@@ -1,0 +1,21 @@
+filename = 'inventorymending-26.1.2-1.2.jar'
+name = 'Inventory Mending'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-1.2-fabric+forge+neo'
+
+[download]
+hash = '7c9f1c8d4cd1171753dccc7326fef26a5e3e3be535e3168525ea48def75bac7253d8cf4a2800082af61b4f626d5e57227542ff48147d57b76bc7c3221e791e26'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/y6Ryy40D/versions/oFgQyWxb/inventorymending-26.1.2-1.2.jar'
+
+[update.modrinth]
+mod-id = 'y6Ryy40D'
+version = 'oFgQyWxb'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0M1UDsY'
+type = 'REQUIRED'

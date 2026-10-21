@@ -1,0 +1,33 @@
+filename = 'wirelesschargers-1.0.10-fabric-mc26.1.jar'
+name = 'Wireless Chargers'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.10-fabric-mc26.1'
+
+[download]
+hash = 'a49eb607482b424a9e69d037d8e6bef1e8898bb25f5bbe919022bb826a6a185903ca04c35695b50dbed4be9cba477d29aac2ec69c2278b806c70636dc89e5d52'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nCk7Sfz8/versions/sk4Hu6b1/wirelesschargers-1.0.10-fabric-mc26.1.jar'
+
+[update.modrinth]
+mod-id = 'nCk7Sfz8'
+version = 'sk4Hu6b1'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5aaWibi9'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rOUBggPv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LN9BxssP'
+type = 'REQUIRED'

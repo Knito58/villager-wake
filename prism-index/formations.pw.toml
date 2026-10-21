@@ -1,0 +1,18 @@
+filename = 'formations-1.0.4-fabric-mc26.1.jar'
+name = 'Formations (Structure Library)'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.4-fabric-mc26.1'
+
+[download]
+hash = '86dce9e0c4d32402bf31dcfe8ebc7a3d8099cc88a9e293ec59a44555fbbdd2bb73c911787d6f6cc047dfed5415476566f159022939ea5b0455fd52cc4029c75d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tPe4xnPd/versions/Pix8JGot/formations-1.0.4-fabric-mc26.1.jar'
+
+[update.modrinth]
+mod-id = 'tPe4xnPd'
+version = 'Pix8JGot'

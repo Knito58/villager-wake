@@ -1,0 +1,25 @@
+filename = 'interdimensionalwirelesstransmitter-fabric-26.1.2-1.0.1.jar'
+name = 'Interdimensional Wireless Transmitter'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-1.0.1'
+
+[download]
+hash = '12596cef0c5904f4513ca4b42c471f8be586021babcdc5a20114940dca3c304d6318eb0c42b4536e6a0000a62e430d1dd53fa1d811364130f0704415aa4efe2e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nQR8XALE/versions/sZI8Jl9F/interdimensionalwirelesstransmitter-fabric-26.1.2-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'nQR8XALE'
+version = 'sZI8Jl9F'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'KDvYkUg3'
+type = 'REQUIRED'

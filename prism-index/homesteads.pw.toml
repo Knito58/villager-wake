@@ -1,0 +1,18 @@
+filename = 'homesteads-2.0.0-for-fabric-26.1.2.jar'
+name = 'Homesteads - Villager Expansion & New Professions'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0'
+
+[download]
+hash = '4ecf52b96e0cb936af64240ddf801a012719b6cd525ff9dc6ce40097f73f81643ce0b4b9583b15f0c1bb68b587807e8b10f2047e899298905fa6bbf621468583'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6ItsEKMh/versions/3rnY811V/homesteads-2.0.0-for-fabric-26.1.2.jar'
+
+[update.modrinth]
+mod-id = '6ItsEKMh'
+version = '3rnY811V'

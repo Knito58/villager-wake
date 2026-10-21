@@ -1,0 +1,21 @@
+filename = 'configurabledespawntimer-26.1.2-4.5.jar'
+name = 'Configurable Despawn Timer'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-4.5-fabric+forge+neo'
+
+[download]
+hash = '3a8748dd471a06b4d580e9ae765eb700b7a62e27bb20a91f3397a892e47b2c4092131449a8b258079cb7cefc298091fe613d482a8e08648e919c06203ddb5ac0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9olMJ5Qp/versions/PWSecNmd/configurabledespawntimer-26.1.2-4.5.jar'
+
+[update.modrinth]
+mod-id = '9olMJ5Qp'
+version = 'PWSecNmd'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0M1UDsY'
+type = 'REQUIRED'

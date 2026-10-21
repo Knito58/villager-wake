@@ -1,0 +1,21 @@
+filename = 'nanite-library-fabric-26.1.2.7.jar'
+name = 'Nanite Library'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '26.1.2.7'
+
+[download]
+hash = '8719e7aeeacb425436d9aadff199414f7e5149c9fd8604279d6c443c9d9944e130cca18c30ca80c3cd7c80809155007ee72918fce0f5d9bcbb3afbe83a753a33'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xSlNcCOe/versions/r2TdQZew/nanite-library-fabric-26.1.2.7.jar'
+
+[update.modrinth]
+mod-id = 'xSlNcCOe'
+version = 'r2TdQZew'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

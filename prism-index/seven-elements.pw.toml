@@ -1,0 +1,33 @@
+filename = 'seven-elements-1.1.0+patch.1+26.1.jar'
+name = 'Seven Elements'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0+patch.1'
+
+[download]
+hash = '7058bff67831203a57097daec3a7ec6859e99c98f01cabcfdcd8ab5c96144811a1726f5cf94fe0b34fae535c9d230635e2d3423b5551a3a1409879531359e4d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PVzXNorO/versions/BW4VkWuR/seven-elements-1.1.0%2Bpatch.1%2B26.1.jar'
+
+[update.modrinth]
+mod-id = 'PVzXNorO'
+version = 'BW4VkWuR'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'K01OU20C'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'

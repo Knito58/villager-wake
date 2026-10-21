@@ -1,0 +1,18 @@
+filename = 'imfast 26.1.2 Fabric-1.0.3.jar'
+name = "I'm Fast"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.3'
+
+[download]
+hash = '86466cea12ec8f288e906cc75223c4c2ee46ac422f7537324479737da79053d99c2b266be47a95a7689f9cf4c95674d14866623ad38827bb23059fa9065bdcb8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PaUMOeP0/versions/L872tt4n/imfast 26.1.2 Fabric-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'PaUMOeP0'
+version = 'L872tt4n'

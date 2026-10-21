@@ -1,0 +1,22 @@
+filename = 'PortalCornerLink-1.0.0 26.1.x.jar'
+name = 'Portal Corner Link'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'cadf25858e8d09497945c1c8fccd837bf931de7ff2c2e8e8ee6ee5bb53c87d56fc656ecc9632627630aea134d567a9149caf230fe4f1a4dea01a380acf7149a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BXf730if/versions/o4AiGa5c/PortalCornerLink-1.0.0 26.1.x.jar'
+
+[update.modrinth]
+mod-id = 'BXf730if'
+version = 'o4AiGa5c'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+version = 'E1mjhYMF'

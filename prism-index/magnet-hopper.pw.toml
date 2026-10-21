@@ -1,0 +1,21 @@
+filename = 'magnethopper-fabric-0.1.2.jar'
+name = 'magnet-hopper'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.2+mc26.1.2'
+
+[download]
+hash = '6ecf4f41d6f70a4c736bc0a787cddf42a4d1b8bd475e4076de505b395e73b1e437a5c80ae90b9d8c283411b854b2a5b539cbcd6a0d8159cb462d4500bd44535d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4eu9bIrL/versions/VoySHdKl/magnethopper-fabric-0.1.2.jar'
+
+[update.modrinth]
+mod-id = '4eu9bIrL'
+version = 'VoySHdKl'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,0 +1,27 @@
+filename = 'colorwheel-fabric-1.0.0+mc26.1.2.jar'
+name = 'Colorwheel for Create Fly'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.0+mc26.1.2'
+
+[download]
+hash = '1ef47e0d6b1f49a1c9f93259be168d4524f2ac95c6ec813ffb5d9956bbddaec89ae795f0787d380ec728ab0849f3dfbf1196f73651df98524a80ce39785b0fd0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RFBpvNvI/versions/ttOceJIl/colorwheel-fabric-1.0.0%2Bmc26.1.2.jar'
+
+[update.modrinth]
+mod-id = 'RFBpvNvI'
+version = 'ttOceJIl'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'YL57xq9U'
+type = 'REQUIRED'
+version = 'MwcLS51S'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'dKvj0eNn'
+type = 'REQUIRED'
+version = 'wV5IQLKg'

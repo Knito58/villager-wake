@@ -1,0 +1,21 @@
+filename = 'polymorph_plus-fabric-1.3.4+26.1.2.jar'
+name = 'Polymorph+'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.4+26.1.2-fabric'
+
+[download]
+hash = 'b0edc1749c5b16575cd1c91da5b05ef433c0fd8544f4e8b3866b7642201111e78c14b4ea581b06f4e09ccdaaada45a74cb142301f50c765e1f019f0689e6ce67'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3uT4J18I/versions/Bp1hinIh/polymorph_plus-fabric-1.3.4%2B26.1.2.jar'
+
+[update.modrinth]
+mod-id = '3uT4J18I'
+version = 'Bp1hinIh'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

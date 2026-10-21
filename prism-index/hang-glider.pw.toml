@@ -1,0 +1,29 @@
+filename = 'hangglider-v26.1.2-mc26.1.x+fabric.jar'
+name = 'Hang Glider'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2'
+
+[download]
+hash = 'a2f5587596a7a74309731e3010fdd428acb63014dafcc24e3bbda2f1b890f4517edd5db2bf9c2a37e3ad379f6a750dea07f53a9c4de0b4b5a8c1e6a3020eebcb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uHWrqYcS/versions/jn3J2sm4/hangglider-v26.1.2-mc26.1.x%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'uHWrqYcS'
+version = 'jn3J2sm4'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'QAGBst4M'
+type = 'REQUIRED'

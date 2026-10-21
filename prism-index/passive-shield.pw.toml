@@ -1,0 +1,21 @@
+filename = 'passiveshield-26.1.2-3.9.jar'
+name = 'Passive Shield'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-3.9-fabric+forge+neo'
+
+[download]
+hash = '9f67982053e30f36ad79ef8fd33e7935b8033f146edfe9098cbedf02cd2e600f77596ee1cc146094d43015fd9da0a83c09e98a35752c9f5d2bb4f89420ed12a5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iQBrasyH/versions/B5XPzeDF/passiveshield-26.1.2-3.9.jar'
+
+[update.modrinth]
+mod-id = 'iQBrasyH'
+version = 'B5XPzeDF'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0M1UDsY'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'biggerspongeabsorptionradius-26.1.2-3.7.jar'
+name = 'Bigger Sponge Absorption Radius'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-3.7-fabric+forge+neo'
+
+[download]
+hash = '62e58941c924b378b0cf9dc04db16c38ec2555e3b29c4ad2c75fd8ef59788937380ffbe51700d47fb68247a908715a66bea2b19c9b3bce7d284e00781e9be7dd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3PLAyBxz/versions/EUl1ytvB/biggerspongeabsorptionradius-26.1.2-3.7.jar'
+
+[update.modrinth]
+mod-id = '3PLAyBxz'
+version = 'EUl1ytvB'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0M1UDsY'
+type = 'REQUIRED'

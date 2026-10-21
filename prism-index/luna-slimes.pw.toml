@@ -1,0 +1,33 @@
+filename = 'LunaSlimes-1.9.1-Fabric+26.1.jar'
+name = 'Luna Slimes'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.9.1-mc26.1'
+
+[download]
+hash = '2e25d66c4ff370ed55557cbf0db664f231bf5072f4c3945c58d1ed37bfdd0754affe073d6e977201acf9768bc1b7fbb018c5d054377e5b136f99f97276dc51b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/29SwBNOk/versions/e2VJfInz/LunaSlimes-1.9.1-Fabric%2B26.1.jar'
+
+[update.modrinth]
+mod-id = '29SwBNOk'
+version = 'e2VJfInz'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9KawNmQc'
+type = 'REQUIRED'

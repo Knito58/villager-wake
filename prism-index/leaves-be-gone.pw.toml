@@ -1,0 +1,29 @@
+filename = 'LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar'
+name = 'Leaves Be Gone'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.0'
+
+[download]
+hash = 'dbef80c93f39110edd5cf73d42a32c9a285d0dd193bdf3888b74af3dfdd5d59e10d455ef016f380805b2e873b82f997514b5f0471ad0761fb3a54fd09031672c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AVq17PqV/versions/PyXgFChf/LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'AVq17PqV'
+version = 'PyXgFChf'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'QAGBst4M'
+type = 'REQUIRED'

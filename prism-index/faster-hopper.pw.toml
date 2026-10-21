@@ -1,0 +1,21 @@
+filename = 'faster_hopper-1.1.0.jar'
+name = 'Faster Hopper'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = 'aebdedfbeb8e836efa829d58debb955d82f45d56374bbe27f88a49a1b835133ca98cf659e05da94bd0c9424bd1c111b6c41dad6af58cb0ad6f9fac9b2863aeea'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DJ5wrj8M/versions/VLt79KS3/faster_hopper-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'DJ5wrj8M'
+version = 'VLt79KS3'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

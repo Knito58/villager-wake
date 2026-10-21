@@ -1,0 +1,39 @@
+filename = 'amethyst-elevator-1.2.0.jar'
+name = 'Amethyst Elevator'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2 Pre-Release 1',
+    '1.21.2 Pre-Release 2',
+    '1.21.2-pre1',
+    '1.21.2-pre2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0+mod'
+
+[download]
+hash = '40bddda2cc00e511e44107c60e94dfa7cc9f5c0652ee2eab4db80b587c0e90d20fd1e6d123abf982abe9661c91ab162bdbd27a623fbd0f8217a769d89cb6ccdc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rdIHYFIE/versions/b51QOW5g/amethyst-elevator-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'rdIHYFIE'
+version = 'b51QOW5g'

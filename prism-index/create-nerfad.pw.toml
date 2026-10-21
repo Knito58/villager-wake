@@ -1,0 +1,18 @@
+filename = 'create_nerfad-1-2-6.jar'
+name = 'Create: Nerfad'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '26.1.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.6'
+
+[download]
+hash = '154a009acf83d47b85876f87c419245de88bce35b662b9df91b5f04eeb947d13bf0d1d84e7d0b1cb61d81f67628ccabdbf93932e6ee7c4ce6edf38b4f67865f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/o320dRNP/versions/db16HW4f/create_nerfad-1-2-6.jar'
+
+[update.modrinth]
+mod-id = 'o320dRNP'
+version = 'db16HW4f'

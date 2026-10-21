@@ -1,0 +1,21 @@
+filename = 'anvilrestoration-26.1.2-2.5.jar'
+name = 'Anvil Restoration'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-2.5-fabric+forge+neo'
+
+[download]
+hash = '0cc5c5ee41202a2ee706658fab5babc653dcc2ee7efa51541778e540c8694a382ba951af90b39bf274fa7f5572819046f6c686465f1c2af5fb02564005101c70'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bd8nwTGy/versions/wanlh2Ln/anvilrestoration-26.1.2-2.5.jar'
+
+[update.modrinth]
+mod-id = 'bd8nwTGy'
+version = 'wanlh2Ln'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0M1UDsY'
+type = 'REQUIRED'

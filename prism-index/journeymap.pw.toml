@@ -1,0 +1,21 @@
+filename = 'journeymap-fabric-26.1.2-6.0.9.jar'
+name = 'Journeymap'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-6.0.9+fabric'
+
+[download]
+hash = '93b724153cc6a990c7eb65e0305ef91d82db4d632655b780a7ee2ac1a1146965df01b09a5382c0e6bb11095859c04e5e2a3e7a6eb6b8c60da908bf708ceedbe7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lfHFW1mp/versions/Bgko4riq/journeymap-fabric-26.1.2-6.0.9.jar'
+
+[update.modrinth]
+mod-id = 'lfHFW1mp'
+version = 'Bgko4riq'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

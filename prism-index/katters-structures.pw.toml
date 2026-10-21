@@ -1,0 +1,18 @@
+filename = 'katters-structures-2.4.jar'
+name = 'Katters Structures'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.4+mod'
+
+[download]
+hash = 'a58cafca6ed92a755126e25bb096bbeee0f0d67610450dbbb7d3d69de53e4538945750495c39fde7a28db930258218ebf07f93886eae33b517c1b069f97e6b86'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V6LLU8Gf/versions/awqugomg/katters-structures-2.4.jar'
+
+[update.modrinth]
+mod-id = 'V6LLU8Gf'
+version = 'awqugomg'

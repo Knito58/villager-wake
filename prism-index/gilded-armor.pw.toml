@@ -1,0 +1,21 @@
+filename = 'gildedarmor-26.1.2-0.1.jar'
+name = 'Gilded Armor'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-0.1'
+
+[download]
+hash = '9657a84d8cc8638713cf33d0d5c451138d21084ccf08d8aa3a2acae68b3a574e2e7b992a6a87a75fb633953faa532da1707baee049ac3018a613b0881eee6f85'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uUXwaFR5/versions/4XV1foCB/gildedarmor-26.1.2-0.1.jar'
+
+[update.modrinth]
+mod-id = 'uUXwaFR5'
+version = '4XV1foCB'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'refinedstorage-quartz-arsenal-fabric-2.0.6.jar'
+name = 'Refined Storage - Quartz Arsenal'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.6'
+
+[download]
+hash = '43b33f23c30392086de9c4cd78140e7fe1a7c95986d9b241a98dde00c32a19b5aef3d4ac56131c97ebce9e28083427391afaa34399724519c6b27087d3cd538d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gnwGOmBf/versions/E1Nzouda/refinedstorage-quartz-arsenal-fabric-2.0.6.jar'
+
+[update.modrinth]
+mod-id = 'gnwGOmBf'
+version = 'E1Nzouda'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'KDvYkUg3'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

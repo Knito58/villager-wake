@@ -1,0 +1,25 @@
+filename = 'culltag-1.1.2.jar'
+name = 'CullTag'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.2'
+
+[download]
+hash = 'd94d493b672869367a8a019bfc9c712ef623a046867920b2ee1657645e89468ce39dde972f8963f8431ab192f503cefb2ea4f2e80b4e6c1ddd03e34fa7a39e7e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Lf5UXIxZ/versions/i1Q7WI6U/culltag-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'Lf5UXIxZ'
+version = 'i1Q7WI6U'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uaLW6JVR'
+type = 'INCOMPATIBLE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,0 +1,45 @@
+filename = 'toms_storage_fabric-26.1-2.10.2.jar'
+name = "Tom's Simple Storage Mod"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1-2.10.2-fabric'
+
+[download]
+hash = 'c4bd1fb4e57db8afc73d1b5f4d3b175fdfb5c5e4bc3851fd53df994e4b793156fecc63fd55d3512123a6d8d1060ea857c70f287277558aa9e3c80436a46bbb53'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XZNI4Cpy/versions/kaQdqIea/toms_storage_fabric-26.1-2.10.2.jar'
+
+[update.modrinth]
+mod-id = 'XZNI4Cpy'
+version = 'kaQdqIea'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fRiHVvU7'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Orvt0mRa'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nfn13YXA'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5aaWibi9'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tagwiZkJ'
+type = 'OPTIONAL'

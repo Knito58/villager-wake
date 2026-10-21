@@ -1,0 +1,25 @@
+filename = 'everlastingabilities-26.1.2-fabric-2.5.10-398.jar'
+name = 'EverlastingAbilities'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '26.1.2-2.5.10-398'
+
+[download]
+hash = 'ee32c2adcd5d4d1fa8e62844026e4fca1310110a0af427c7772d1c413e4bd3c75080b46d29a5d77b2355a457ea37f5edd515b9680da3478b4abfaa4032718df5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xDwJf4pi/versions/oIOrckPo/everlastingabilities-26.1.2-fabric-2.5.10-398.jar'
+
+[update.modrinth]
+mod-id = 'xDwJf4pi'
+version = 'oIOrckPo'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Z9DM0LJ4'
+type = 'REQUIRED'

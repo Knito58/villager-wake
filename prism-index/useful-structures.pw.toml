@@ -1,0 +1,18 @@
+filename = 'useful-structures-v3.1.jar'
+name = 'Useful Structures'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9', '1.21.10', '1.21.11', '26.1', '26.1.1', '26.1.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v3.1+mod'
+
+[download]
+hash = '6d891db51c79dcd2b22e67b161f1440ab96439ad92784a8719dd31547d414cdcc90c313908ab7312002a87f56f8ee87795d570cb0350bdd9df933ba4ab643e72'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/f4JBIbKe/versions/7fUdvvqY/useful-structures-v3.1.jar'
+
+[update.modrinth]
+mod-id = 'f4JBIbKe'
+version = '7fUdvvqY'

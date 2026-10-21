@@ -1,0 +1,29 @@
+filename = 'compact_storage-fabric-26.1.16.jar'
+name = 'CompactStorage'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.16+fabric-26.1.2'
+
+[download]
+hash = '8af648efb5576eff2e8e1556e9d7f7136405999d08614663550d1e9516fee0bb112db481d4a81d47eb6929601d59f408fd37e4e9a06df5025022cf8eac2d9285'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CNYyGWn5/versions/t9oMvYdv/compact_storage-fabric-26.1.16.jar'
+
+[update.modrinth]
+mod-id = 'CNYyGWn5'
+version = 't9oMvYdv'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XaT8sLP6'
+type = 'OPTIONAL'

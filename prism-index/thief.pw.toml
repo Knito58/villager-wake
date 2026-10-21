@@ -1,0 +1,25 @@
+filename = 'thief-fabric-26.1.2-1.2.5.jar'
+name = 'Thief'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.5'
+
+[download]
+hash = '5be1f3272b2eb84e786b24d7e2f3b940701d5963fef3b4146ef5ed7f732e6ad1869064c7f9f60cd372daedff0c96f0abd90785b130177a10ed77a22953917495'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dGtSkt4t/versions/eOViVa8x/thief-fabric-26.1.2-1.2.5.jar'
+
+[update.modrinth]
+mod-id = 'dGtSkt4t'
+version = 'eOViVa8x'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

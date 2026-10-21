@@ -1,0 +1,21 @@
+filename = 'stackrefill-26.1.2-5.0.jar'
+name = 'Stack Refill'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-5.0-fabric+forge+neo'
+
+[download]
+hash = '929b7bcc1863b7eccdb3460f1954a14e604ba563a863d37d36a7d07a97bc4ca4036b5d5ab432f03895805b305f699014883e211cc58493be43caff7c5c839170'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mQWkB9ON/versions/6q9Ge9SN/stackrefill-26.1.2-5.0.jar'
+
+[update.modrinth]
+mod-id = 'mQWkB9ON'
+version = '6q9Ge9SN'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0M1UDsY'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'cabletiers-fabric-26.1.2-1.0.2.jar'
+name = 'Cable Tiers'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2-1.0.2'
+
+[download]
+hash = '0d734b02989119fd74a663c30ea84d1d58f5ee11ecc982f6cdd94e38d465a516a67c4f71c63393171bb7a1dee5b3b8701dad7df774d6610d1280524eb44afc4d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UsLNxQgK/versions/l4TD93HV/cabletiers-fabric-26.1.2-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'UsLNxQgK'
+version = 'l4TD93HV'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'KDvYkUg3'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'farmingforblockheads-fabric-26.1.2-26.1.2.5.jar'
+name = 'Farming for Blockheads'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2.5+fabric-26.1.2'
+
+[download]
+hash = '2ead15bdda70444b4619d8f531b6ef0fb7f27687d830f3f8c6603b3bb1a81361c0c89793625dbab4d514cf26eae34980a6125eb7b6a384c52db018731cb90d23'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4WJZr8JU/versions/yvmvR4Ca/farmingforblockheads-fabric-26.1.2-26.1.2.5.jar'
+
+[update.modrinth]
+mod-id = '4WJZr8JU'
+version = 'yvmvR4Ca'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'

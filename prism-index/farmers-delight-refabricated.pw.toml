@@ -1,0 +1,29 @@
+filename = 'FarmersDelight-26.1-3.6.26+refabricated.jar'
+name = "Farmer's Delight"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1-3.6.26'
+
+[download]
+hash = 'b4bdce09f4903f955806e29793b83cb27f3658754862b9bf2c9eb9cff43baef81f16bfcb8c55eec71b9f890d452f722b7d9a3ba77ea07d9941b19d87613f1080'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7vxePowz/versions/WgtdZQuc/FarmersDelight-26.1-3.6.26%2Brefabricated.jar'
+
+[update.modrinth]
+mod-id = '7vxePowz'
+version = 'WgtdZQuc'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5VolwT6c'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'

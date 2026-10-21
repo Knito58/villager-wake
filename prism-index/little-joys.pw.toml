@@ -1,0 +1,25 @@
+filename = 'littlejoys-fabric-26.1.2-26.1.2.5.jar'
+name = 'Little Joys'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.2.5+fabric-26.1.2'
+
+[download]
+hash = 'fe7c8e0a7267b987315ebd2e5a0d9666d7e4bf7470f87880b2e1c02ffb5e573f0792bdd7eef88a3020bfb94cfd5ba8f35c0c8bf11d204e97a2bec11a1c4ad1de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/v0j2ftEp/versions/hs2J1UEc/littlejoys-fabric-26.1.2-26.1.2.5.jar'
+
+[update.modrinth]
+mod-id = 'v0j2ftEp'
+version = 'hs2J1UEc'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

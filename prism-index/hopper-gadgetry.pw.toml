@@ -1,0 +1,29 @@
+filename = 'hoppergadgetry-v26.1.1-mc26.1.x+fabric.jar'
+name = 'Hopper Gadgetry'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1.1'
+
+[download]
+hash = 'fbedc778ac76fb6ac8612465b92809f01fbb7c6bf2c3a7298a8ff7c92f5660dbfa6ba6ea31baa91dacc9bbab4dfacc945cebb568a97d9f24a1dd709ad62ef022'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RCK4uOMN/versions/UiVq1Tf3/hoppergadgetry-v26.1.1-mc26.1.x%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'RCK4uOMN'
+version = 'UiVq1Tf3'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'QAGBst4M'
+type = 'REQUIRED'

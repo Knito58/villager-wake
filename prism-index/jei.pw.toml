@@ -1,0 +1,25 @@
+filename = 'jei-26.1.2-fabric-29.43.0.106.jar'
+name = 'Just Enough Items'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '29.43.0.106'
+
+[download]
+hash = '3d3a8ea72184ee10215b81cb83db9326da5befa4cf0368dbca0d90db7eeab8ee8e96ac826d8b463da063342b5279693d6c5d8a0b19e2195cade65a6467a3af8c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/u6dRKJwZ/versions/nkjaeEro/jei-26.1.2-fabric-29.43.0.106.jar'
+
+[update.modrinth]
+mod-id = 'u6dRKJwZ'
+version = 'nkjaeEro'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BOHUKqOz'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '7tEfOcA7'
+type = 'REQUIRED'

@@ -1,0 +1,22 @@
+filename = 'advancements_fullscreen-fabric-2.0.0+mc26.1.jar'
+name = 'Advancements Fullscreen'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0'
+
+[download]
+hash = '38be262b5d48f5ce05c7ccadcb41eb2483699d2bc01bb0dd9bd3f9a24801d67f6e900f6ae281c3eec7b0bfafeae908b605c63a00fd8cb29305de4b4bf3dfa00d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7BgsROit/versions/E3IEWpM0/advancements_fullscreen-fabric-2.0.0%2Bmc26.1.jar'
+
+[update.modrinth]
+mod-id = '7BgsROit'
+version = 'E3IEWpM0'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'
+version = 'N6D3uiZF'

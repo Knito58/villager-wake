@@ -1,0 +1,22 @@
+filename = 'liteminer-extra-shapes-1.3.0.jar'
+name = 'Liteminer Extra Shapes'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.0+26.1.2'
+
+[download]
+hash = 'e3e6f5389cc4b3db7717902c580ceedf8a8adc5da0b879227bdc74efe408634bd8dd7e8d0d09a3b30ce3f94839af6529abe8f75ec5909e912fe5939374dc5e0b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/B0oEYDNC/versions/J4q5gcLH/liteminer-extra-shapes-1.3.0.jar'
+
+[update.modrinth]
+mod-id = 'B0oEYDNC'
+version = 'J4q5gcLH'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'VTnHoofC'
+type = 'REQUIRED'
+version = 'uEh9FOls'
