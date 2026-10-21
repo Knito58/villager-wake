@@ -151,6 +151,11 @@ hash = "069237108dd259e67fbac6f49058df596e256be51b15a23b1ae4987963474479"
 metafile = true
 
 [[files]]
+file = "mods/create-nerfad-not-enough-recipes-for-a-dummy.pw.toml"
+hash = "b117e1373771a8165f1660e1e3e11e669c6503c86bafafbe987eeea797cf995f"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "e8d7f39682a94f0219583fe92cf482b0a92c25f0a206394aac794af9afe0080b"
 metafile = true
