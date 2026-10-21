@@ -8,7 +8,7 @@ rm -rf pack && mkdir -p pack
 python3 tools/fetch_jars.py prism-index pack/mods
 cd pack
 packwiz init --name "Villager Wake" --author Konitor --version 2.0.0 \
-  --mc-version 26.1.2 --modloader fabric --fabric-version 0.19.3 -r
+  --mc-version 26.1.2 --modloader fabric --fabric-version 0.19.5 -r
 # many files are tagged 26.1 or 26.1.1 only; they run on 26.1.2 too
 packwiz settings acceptable-versions 26.1,26.1.1
 packwiz curseforge detect | tee "$ROOT/detect.log"
