@@ -41,6 +41,7 @@ add --addon-id 1757335   # Create: Nerfad
 # shader packs (pinned files; packwiz cannot pick shader files by loader)
 add --addon-id 627557 --file-id 8884654   # Complementary Reimagined r5.9.3
 add --addon-id 385587 --file-id 8884656   # Complementary Unbound r5.9.3
+add --addon-id 1389097 --file-id 7824966   # Clarity 1.1.2 (replaces Nyxavora)
 
 {
   echo
