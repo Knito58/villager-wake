@@ -1,0 +1,13 @@
+name = "Gilded Armor"
+filename = "gildedarmor-26.1.2-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f53ba5343718a5d181b75ce3c6174dfdd0eecd72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8124159
+project-id = 883194

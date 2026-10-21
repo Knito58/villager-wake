@@ -1,0 +1,13 @@
+name = "CompactStorage"
+filename = "compact_storage-fabric-26.1.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf0983fe8d5544938c271405d3e02d40d389e503"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8383053
+project-id = 223703

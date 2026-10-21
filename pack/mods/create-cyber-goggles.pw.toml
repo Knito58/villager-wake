@@ -1,0 +1,13 @@
+name = "Create: Cyber Goggles"
+filename = "CreateCyberGoggles-26.1.2-7.0.0-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a92d1f4371aa25b40062999e5d5f4989e29092d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8230844
+project-id = 1233804

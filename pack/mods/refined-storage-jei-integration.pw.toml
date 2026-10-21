@@ -1,0 +1,13 @@
+name = "Refined Storage - JEI Integration"
+filename = "refinedstorage-jei-integration-fabric-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bae27cd33e0e5fd2f688476b081ecd2b757e2c9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8175468
+project-id = 1230497

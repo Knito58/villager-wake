@@ -1,0 +1,13 @@
+name = "Hydrofarm"
+filename = "hydrofarm-fabric-0.2.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b681990a69a431ffee6a5900f8c1c97c5c583a57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8945128
+project-id = 1573076

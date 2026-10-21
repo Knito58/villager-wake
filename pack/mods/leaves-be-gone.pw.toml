@@ -1,0 +1,13 @@
+name = "Leaves Be Gone"
+filename = "LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fe611c2ad60d29eadb74748029499e5fbeb3e67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8036436
+project-id = 686435

@@ -1,0 +1,13 @@
+name = "Ziplines: Rezipped!"
+filename = "zipline-1.5.3+26.1.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "50f178943b485eff30b3d3f95be8cb71b8b7ddd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8979632
+project-id = 1454717

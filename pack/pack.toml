@@ -1,0 +1,13 @@
+name = "Villager Wake"
+author = "Konitor"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f5b962b509e245fb6ed950fd7a7f3d0685ecbd5d95802ef5db31f0c4ed51f759"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.1.2"

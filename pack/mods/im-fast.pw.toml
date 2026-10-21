@@ -1,0 +1,13 @@
+name = "I'm Fast"
+filename = "imfast 26.1.2 Fabric-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1328796d1710c1b6d59cec0368332eb58c4a1ad4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7936993
+project-id = 1111501

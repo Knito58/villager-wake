@@ -1,0 +1,13 @@
+name = "AttributeFix"
+filename = "AttributeFix-fabric-MC26.1.2-26.1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f2789d6aefada4dfc48438e41f45fc06aa24076"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8383509
+project-id = 280510

@@ -1,0 +1,13 @@
+name = "Simple Energy Generator"
+filename = "fabric_simple_generator-1.0.0-26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c55ea8a9006c05c7ce2e544166831d1282ee8b4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8005601
+project-id = 1389014

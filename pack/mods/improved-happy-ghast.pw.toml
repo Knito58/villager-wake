@@ -1,0 +1,13 @@
+name = "Improved Happy Ghast"
+filename = "improved-happy-ghast-0.6.0+mod.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46dd2d5a7f77069778f6a2098b708248038ed07d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8899448
+project-id = 1414156

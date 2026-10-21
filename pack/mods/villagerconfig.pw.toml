@@ -1,0 +1,13 @@
+name = "VillagerConfig"
+filename = "villagerconfig-fabric-4.6.0+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26aff1b13748f2c4cd669763c6f5debc4bf57100"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8959252
+project-id = 400741

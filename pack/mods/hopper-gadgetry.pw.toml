@@ -1,0 +1,13 @@
+name = "Hopper Gadgetry"
+filename = "hoppergadgetry-v26.1.1-mc26.1.x+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6cb2a0d83257acd028bc378ea941e8fb87665bdf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8987992
+project-id = 1254698

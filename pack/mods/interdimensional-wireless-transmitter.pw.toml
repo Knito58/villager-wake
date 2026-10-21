@@ -1,0 +1,13 @@
+name = "Interdimensional Wireless Transmitter"
+filename = "interdimensionalwirelesstransmitter-fabric-26.1.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4c9132c704b1a89360079db62e778adc2b69e67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8037708
+project-id = 452645

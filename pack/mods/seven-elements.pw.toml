@@ -1,0 +1,13 @@
+name = "Seven Elements"
+filename = "seven-elements-1.1.0+patch.1+26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa14e2e709cd4df61e5b74951c58d74a6be5db19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8675338
+project-id = 1361218

@@ -1,0 +1,13 @@
+name = "Reinforced Obsidian"
+filename = "ReinforcedObsidian-26.1.2-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbabd5110ef15148ab09e63381f105a94ed1968d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8291626
+project-id = 1018987

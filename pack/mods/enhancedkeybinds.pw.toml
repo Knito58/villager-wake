@@ -1,0 +1,13 @@
+name = "Enhanced Keybinds"
+filename = "enhancedkeybinds-4.0.0+26.1.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27e41326e8e7f2ca85b05ab85119f3d9fe814638"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8489995
+project-id = 1207805

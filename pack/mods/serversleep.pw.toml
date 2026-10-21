@@ -1,0 +1,13 @@
+name = "ServerSleep"
+filename = "serversleep-3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61b998582deb3605822e66e43dcf36b74e11482e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7333160
+project-id = 776237

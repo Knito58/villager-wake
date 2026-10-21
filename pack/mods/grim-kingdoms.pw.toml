@@ -1,0 +1,13 @@
+name = "Grim Kingdoms: Lost structures & ruins"
+filename = "grim-kingdoms-lost-structures-ruins-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54d6fa1040cfca3f0ea9d1766b7ed63864ee660c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8454430
+project-id = 1409762

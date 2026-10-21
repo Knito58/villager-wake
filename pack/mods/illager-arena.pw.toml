@@ -1,0 +1,13 @@
+name = "Illager Arena"
+filename = "illager_arena-1.0.0 Fabric 26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee35dcbddb94645fc7836bed49d7a8d6cff670ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7808985
+project-id = 1358983

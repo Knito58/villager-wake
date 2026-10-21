@@ -1,0 +1,13 @@
+name = "Simple Cables"
+filename = "simplecables76-1.0.3.261.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e95328c2bae4af61caf8776f73438a3808b7661"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7883996
+project-id = 1491488

@@ -1,0 +1,13 @@
+name = "EverlastingAbilities"
+filename = "everlastingabilities-26.1.2-fabric-2.5.10-398.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a5bff20d1b8f8529b79b385a17ecfd0e412fe88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8848035
+project-id = 248353

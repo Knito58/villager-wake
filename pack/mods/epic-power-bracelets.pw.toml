@@ -1,0 +1,13 @@
+name = "Epic Power Bracelets"
+filename = "epicpowerbracelets-fabric-mc26.1.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bebd034c2cc1a44c670ef8bde9a17d4452357752"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7979598
+project-id = 978148

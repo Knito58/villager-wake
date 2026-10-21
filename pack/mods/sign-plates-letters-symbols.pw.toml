@@ -1,0 +1,13 @@
+name = "Sign Plates: Letters & Symbols"
+filename = "SignPlates-Fabric-26.1-v1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7167f319b225c2574b489ea4fe361d3513316324"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8175642
+project-id = 1493614

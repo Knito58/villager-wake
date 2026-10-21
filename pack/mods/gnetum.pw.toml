@@ -1,0 +1,13 @@
+name = "Gnetum"
+filename = "Gnetum-4.6.1+26.1.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c0a268837911c74b81a0823e3b216b4c0c42a55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8945834
+project-id = 1220460

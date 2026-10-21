@@ -1,0 +1,13 @@
+name = "Wakes Reforged"
+filename = "wakes-26.1.2-Fabric-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c198571864586e26d37c75d0001a6c6b89197f41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8657122
+project-id = 1223529

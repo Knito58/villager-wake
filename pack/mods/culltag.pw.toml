@@ -1,0 +1,13 @@
+name = "CullTag"
+filename = "culltag-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e189070e1d07d8a1cc482130b77f94908580bf6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8545669
+project-id = 1545379

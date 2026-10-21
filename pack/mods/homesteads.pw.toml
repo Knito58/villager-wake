@@ -1,0 +1,13 @@
+name = "Homesteads - Villager Expansion & New Professions"
+filename = "homesteads-2.0.0-for-fabric-26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a7774e93291481d033e142d0bf4b67535ede4b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7928258
+project-id = 1336255

@@ -1,0 +1,13 @@
+name = "CapabilityProxy"
+filename = "capabilityproxy-26.1.2-fabric-2.2.3-230.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fb2638c249e20e55bd8301405d59ffe713da46e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8848048
+project-id = 266479

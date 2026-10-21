@@ -1,0 +1,13 @@
+name = "GravelMiner"
+filename = "gravelminer-fabric-26.1-26.1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02b6968ab994536a54dd2cb2e5979c42860e4b9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7806648
+project-id = 244759

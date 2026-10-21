@@ -1,0 +1,13 @@
+name = "Konfig"
+filename = "konfig-fabric-0.10.0+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a43433618d8ddc131f156fd2a3ffb315761891c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9028028
+project-id = 1479633

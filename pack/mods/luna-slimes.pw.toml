@@ -1,0 +1,13 @@
+name = "Luna Slimes"
+filename = "LunaSlimes-1.9.1-Fabric+26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c748b8b8730a76e06492bb1bff0812004658274"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7816965
+project-id = 775534

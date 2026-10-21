@@ -1,0 +1,13 @@
+name = "Nanite Library"
+filename = "nanite-library-fabric-26.1.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b35c4ea378fbcd1a60cbf1f2668d579e689ef6e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8991793
+project-id = 1171906

@@ -1,0 +1,13 @@
+name = "Obsidian Tools & More"
+filename = "obsidiantoolsandmore-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "135f375609f378887d3f51c37591672d71a1fe62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8104963
+project-id = 1546181

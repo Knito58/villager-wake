@@ -1,0 +1,13 @@
+name = "村庄地平线 Village Horizons +"
+filename = "VillageHorizons+_1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41feb0a3cc8bda6f8fe59c8d51580bf664fed03b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8392845
+project-id = 1598917

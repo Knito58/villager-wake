@@ -1,0 +1,13 @@
+name = "Midnight Thoughts"
+filename = "midnightthoughts-1.5.5+fabric.26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "615e4b27298ee45dbb5ecca42a95938c39ffb6fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8677326
+project-id = 1401318

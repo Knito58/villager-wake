@@ -1,0 +1,13 @@
+name = "Storage Pots"
+filename = "StoragePots-v2.3.11.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "535633ece761212c46a8009ef660f7e7709da12a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7313102
+project-id = 1262538

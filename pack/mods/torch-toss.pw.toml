@@ -1,0 +1,13 @@
+name = "Torch Toss"
+filename = "torchtoss-fabric-5.2.0+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fae21485787dc5bf5cad6d1faafcd75198d0c47e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8506674
+project-id = 1191803

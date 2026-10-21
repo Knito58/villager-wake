@@ -1,0 +1,13 @@
+name = "Refined Storage - Quartz Arsenal"
+filename = "refinedstorage-quartz-arsenal-fabric-2.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1f41609c982a0775329c96d0c2ef92d04a31348"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8175414
+project-id = 1230483

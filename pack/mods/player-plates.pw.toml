@@ -1,0 +1,13 @@
+name = "Player Plates (Obsidian Plates)"
+filename = "playerplates-fabric-26.1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "439407978d1187c8b243599aafec2b75eadd10ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7926974
+project-id = 311645

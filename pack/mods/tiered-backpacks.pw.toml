@@ -1,0 +1,13 @@
+name = "Tiered Backpacks"
+filename = "tiered_backpacks-fabric-1.0.20+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c589e9512806fb7802d5aeccb224798a931142e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9037896
+project-id = 1379730

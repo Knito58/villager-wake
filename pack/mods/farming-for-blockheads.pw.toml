@@ -1,0 +1,13 @@
+name = "Farming for Blockheads"
+filename = "farmingforblockheads-fabric-26.1.2-26.1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6dcd313f9baf12f43310c591065fd5f9562ba293"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8969794
+project-id = 261924

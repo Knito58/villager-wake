@@ -1,0 +1,13 @@
+name = "Health Bars"
+filename = "HealthBars-v26.1.1-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b3b7cb1fce3c3df0ef4d9b69780188a9a4d4d8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8280431
+project-id = 1367734

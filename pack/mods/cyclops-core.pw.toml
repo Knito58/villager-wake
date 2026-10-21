@@ -1,0 +1,13 @@
+name = "Cyclops Core"
+filename = "cyclopscore-26.1.2-fabric-1.31.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6420e041958dfc40de066934b15459ac4728787a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9115571
+project-id = 232758

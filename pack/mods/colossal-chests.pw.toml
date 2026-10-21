@@ -1,0 +1,13 @@
+name = "Colossal Chests"
+filename = "colossalchests-26.1.2-fabric-1.9.1-20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a336f940811b48738a9a6de7a556fb2f928b1213"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9118754
+project-id = 237875

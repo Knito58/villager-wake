@@ -1,0 +1,13 @@
+name = "Immersive Overlays"
+filename = "immersiveoverlays-1.8.5+26.1.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a9545420adf01d948285620d63ae4129cb20186"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8949570
+project-id = 1245453

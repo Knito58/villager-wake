@@ -1,0 +1,13 @@
+name = "Distracting Trims"
+filename = "DistractingTrims-fabric-MC26.1.2-26.1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c88b048c9c791a91220e062af045107ec78d3cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8353988
+project-id = 862201

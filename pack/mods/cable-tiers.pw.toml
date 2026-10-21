@@ -1,0 +1,13 @@
+name = "Cable Tiers"
+filename = "cabletiers-fabric-26.1.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6bd14b51cb80678313a3914b01c6a4f93513885"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8705515
+project-id = 454382

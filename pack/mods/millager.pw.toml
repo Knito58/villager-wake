@@ -1,0 +1,13 @@
+name = "Millager (Village Defenders)"
+filename = "millager-fabric-26.1.2-0.7.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a161b79d91cfc7765e04163e51c09a18ca3553c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8705023
+project-id = 1546835

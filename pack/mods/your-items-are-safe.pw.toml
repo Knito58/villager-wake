@@ -1,0 +1,13 @@
+name = "Your Items Are Safe"
+filename = "youritemsaresafe-26.1.2-4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46a416a5c5afa5b585245e7ed8844263f6023cd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7901765
+project-id = 525792

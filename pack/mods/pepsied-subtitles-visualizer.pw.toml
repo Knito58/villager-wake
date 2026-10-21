@@ -1,0 +1,13 @@
+name = "Pepsi's Subtitles Visualizer"
+filename = "Subtitles Visualizer Fabric (26.1) [1.0.2].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab99afc2b36cd0a981451b5f08fa9f1d9599de81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8110344
+project-id = 1525131

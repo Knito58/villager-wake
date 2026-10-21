@@ -1,0 +1,13 @@
+name = "Automatic Doors"
+filename = "automaticdoors-26.1.2-5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6cbabb252ee6e8bb299b9aba988d432f114d415c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7902405
+project-id = 347635

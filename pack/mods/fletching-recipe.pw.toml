@@ -1,0 +1,13 @@
+name = "Fletching Recipe"
+filename = "fletchingrecipe-fabric-26.1.2-26.1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6fc34eba98f28e4891bd906106210e76c2b72a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8189918
+project-id = 1364606

@@ -1,0 +1,13 @@
+name = "Cinch's Abandoned Houses"
+filename = "cinchsabandonedhouses-[Forge-Fabric-1.21.x-26.2]-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3ea309a42c3a287b801645fa265e250e5bcb0dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8448077
+project-id = 1278906

@@ -1,0 +1,13 @@
+name = "FrozenLib"
+filename = "FrozenLib-2.4.4-mc26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a466168181a79e473ae1c4ca98c581780a45f3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8021936
+project-id = 709773

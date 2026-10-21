@@ -1,0 +1,13 @@
+name = "Structures – Structures & Exploration"
+filename = "Strucutres v4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "debabcf5afb1fcfb22ea8573184c86840d541268"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8956931
+project-id = 1391238

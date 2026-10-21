@@ -1,0 +1,13 @@
+name = "Refined Storage"
+filename = "refinedstorage-fabric-3.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5287c64976df17110d495d2f4d7d7b5014ccf2ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8211385
+project-id = 243076
