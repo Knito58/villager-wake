@@ -33,7 +33,7 @@ add() {
 # mods on CurseForge, but not with the same file as in the Modrinth pack
 for s in advancedfurnacey blooming-biosphere clientsort colossal-chests commandkeys cyclops-core \
          farming-for-blockheads modernfix-mvus player-armor-stands resourcestrees shogi \
-         useful-structures villager-guards capabilityproxy everlastingabilities structure-tools-continued \
+         useful-structures villager-guards capabilityproxy everlastingabilities \
          bobby; do
   add "$s"
 done
