@@ -714,11 +714,6 @@ hash = "e0baa4e93d22b506139ca2590fca96f8721809144ee0b22deb5b70b02637df33"
 metafile = true
 
 [[files]]
-file = "mods/structure-tools-continued.pw.toml"
-hash = "3f18d8dca0e97ebcfc830438f339b95d56fc8a6c4d5e523c81d5f8a2a7bd85ce"
-metafile = true
-
-[[files]]
 file = "mods/structures-modd.pw.toml"
 hash = "4df68bff35a6a393f3ffd406bf5c294d0742ac9b42b8d89880ad0a4b45a5eef8"
 metafile = true

@@ -19,7 +19,6 @@ Matched by fingerprint: 158. Not matched (left out unless added below): 35
 | villager-guards | ok: Project "Villager Guards (Fabric/Forge/NeoForge/Quilt)" successfully added! (villager-guards-v1.15.jar) |
 | capabilityproxy | ok: Project "CapabilityProxy" successfully added! (capabilityproxy-26.1.2-fabric-2.2.3-230.jar) |
 | everlastingabilities | ok: Project "EverlastingAbilities" successfully added! (everlastingabilities-26.1.2-fabric-2.5.10-398.jar) |
-| structure-tools-continued | ok: Project "St'ructure Tools Continued (Building Gadget)" successfully added! ([26.1.2] structure-tools-continued-1.2.3.jar) |
 | bobby | ok: Project "Bobby" successfully added! (bobby-5.2.13+mc26.1.jar) |
 | --addon-id 1757335 | ok: Project "Create: Nerfad – Not Enough Recipes For A Dummy" successfully added! (create_nerfad-1-2-12.jar) |
 
