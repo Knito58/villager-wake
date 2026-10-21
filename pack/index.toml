@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
+metafile = true
+
+[[files]]
+file = "complementary-unbound.pw.toml"
+hash = "ec05a5f5bc7e0f4a29ec1c4c3ee31baef494e91f60e8239bd0e781f8f23d1b61"
+metafile = true
+
+[[files]]
 file = "config/thief-client.toml"
 hash = "50118c3a915128689b10e8d824df7d1cd7e6ce8eb329c6f53147a6fa684b0733"
 

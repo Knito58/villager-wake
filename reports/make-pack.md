@@ -21,41 +21,43 @@ Matched by fingerprint: 158. Not matched (left out unless added below): 35
 | everlastingabilities | ok: Project "EverlastingAbilities" successfully added! (everlastingabilities-26.1.2-fabric-2.5.10-398.jar) |
 | bobby | ok: Project "Bobby" successfully added! (bobby-5.2.13+mc26.1.jar) |
 | --addon-id 1757335 | ok: Project "Create: Nerfad – Not Enough Recipes For A Dummy" successfully added! (create_nerfad-1-2-12.jar) |
+| --addon-id 627557 --file-id 8884654 | ok: Project "Complementary Shaders - Reimagined" successfully added! (ComplementaryReimagined_r5.9.3.zip) |
+| --addon-id 385587 --file-id 8884656 | ok: Project "Complementary Shaders - Unbound" successfully added! (ComplementaryUnbound_r5.9.3.zip) |
 
 ## Jars left out
 
-- effortless-crafting-fabric-26.1.X-v1.4.4.jar
-- advancements_fullscreen-fabric-2.0.0+mc26.1.jar
-- resourcestrees-fabric-26.1.2-26.1.2.203.jar
-- cyclopscore-26.1.2-fabric-1.31.2.jar
-- PortalCornerLink-1.0.0 26.1.x.jar
-- autofishhy-0.14.jar
-- clearwaterlava-fabric-26.1.2.jar
-- pas-0.10.1-FBR-26.1.jar
-- Voxy World Gen V2-26.1.2-2.2.4.jar
-- colorwheel-fabric-1.0.0+mc26.1.2.jar
-- everlastingabilities-26.1.2-fabric-2.5.10-398.jar
-- commandkeys-fabric-3.102.4+26.1.2.jar
-- farmingforblockheads-fabric-26.1.2-26.1.2.5.jar
-- voxy-0.2.18-beta-26.1.2.jar
-- capabilityproxy-26.1.2-fabric-2.2.3-230.jar
-- advancementssearch-mc26.1+1.3.jar
-- amethyst-elevator-1.2.0.jar
 - faster_hopper-1.1.0.jar
+- storage-pots-2.3.11.jar
+- crashfixer-3.1.0+26.1.2.jar
 - clientsort-fabric-3.102.8+26.1.2.jar
+- capabilityproxy-26.1.2-fabric-2.2.3-230.jar
+- colossalchests-26.1.2-fabric-1.9.1-302.jar
+- advancementssearch-mc26.1+1.3.jar
+- Voxy World Gen V2-26.1.2-2.2.4.jar
+- useful-structures-v3.1.jar
+- Slime-26.1.2.jar
+- farmingforblockheads-fabric-26.1.2-26.1.2.5.jar
+- cyclopscore-26.1.2-fabric-1.31.2.jar
+- shogi-fabric-26.1.2-26.1.2.12.jar
+- PortalCornerLink-1.0.0 26.1.x.jar
+- colorwheel-fabric-1.0.0+mc26.1.2.jar
 - craft-horse-armor-101.1.jar
 - walled-city-structure-1.0.2.jar
-- villager-guards-v1.1.7.jar
-- crashfixer-3.1.0+26.1.2.jar
-- useful-structures-v3.1.jar
-- blooming-biosphere-v1.1.14.jar
-- [26.1.2] structure-tools-continued-1.2.2.jar
-- storage-pots-2.3.11.jar
+- advancements_fullscreen-fabric-2.0.0+mc26.1.jar
 - advanced-furnace-fabric-26.1.2-1.0.1.jar
 - katters-structures-2.4.jar
-- terralith-biome-saplings-1.1.6.jar
-- shogi-fabric-26.1.2-26.1.2.12.jar
-- colossalchests-26.1.2-fabric-1.9.1-302.jar
-- create_nerfad-1-2-6.jar
-- Slime-26.1.2.jar
 - shutupdeadentities-mc26.1+1.2.jar
+- pas-0.10.1-FBR-26.1.jar
+- blooming-biosphere-v1.1.14.jar
+- villager-guards-v1.1.7.jar
+- terralith-biome-saplings-1.1.6.jar
+- commandkeys-fabric-3.102.4+26.1.2.jar
+- [26.1.2] structure-tools-continued-1.2.2.jar
+- clearwaterlava-fabric-26.1.2.jar
+- autofishhy-0.14.jar
+- voxy-0.2.18-beta-26.1.2.jar
+- resourcestrees-fabric-26.1.2-26.1.2.203.jar
+- create_nerfad-1-2-6.jar
+- amethyst-elevator-1.2.0.jar
+- everlastingabilities-26.1.2-fabric-2.5.10-398.jar
+- effortless-crafting-fabric-26.1.X-v1.4.4.jar
