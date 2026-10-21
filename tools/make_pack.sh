@@ -38,6 +38,9 @@ for s in advancedfurnacey blooming-biosphere clientsort colossal-chests commandk
   add "$s"
 done
 add --addon-id 1757335   # Create: Nerfad
+# shader packs (pinned files; packwiz cannot pick shader files by loader)
+add --addon-id 627557 --file-id 8884654   # Complementary Reimagined r5.9.3
+add --addon-id 385587 --file-id 8884656   # Complementary Unbound r5.9.3
 
 {
   echo
