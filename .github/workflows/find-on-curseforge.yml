@@ -1,0 +1,37 @@
+name: Find mods on CurseForge
+
+on:
+  workflow_dispatch:
+    inputs:
+      names:
+        description: "Search terms, separated by ;"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: stable
+
+      - name: install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: search
+        env:
+          NAMES: ${{ inputs.names }}
+        run: python3 tools/find_on_cf.py "$NAMES" reports/curseforge-search.md
+
+      - name: commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/curseforge-search.md
+          git commit -m "CurseForge search report" || echo "no change"
+          git push
