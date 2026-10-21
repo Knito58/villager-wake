@@ -12,8 +12,8 @@ for path in paths:
         L += [f'## {path}', '', f'not found ({e})', '']
         continue
     L += [f"## {j.get('title')} ({path})", '', f"ID {j.get('id')}, {j.get('urls', {}).get('curseforge', '')}", '',
-          '| File | Versions | Date |', '|---|---|---|']
+          '| File | File ID | Versions | Date |', '|---|---|---|---|']
     for f in sorted(j.get('files', []), key=lambda f: f.get('uploaded_at', ''), reverse=True)[:6]:
-        L.append(f"| {f.get('name')} | {', '.join(f.get('versions', []))} | {f.get('uploaded_at', '')[:10]} |")
+        L.append(f"| {f.get('name')} | {f.get('id')} | {', '.join(f.get('versions', []))} | {f.get('uploaded_at', '')[:10]} |")
     L.append('')
 open(sys.argv[2], 'w').write('\n'.join(L) + '\n')
