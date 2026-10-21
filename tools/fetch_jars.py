@@ -5,7 +5,7 @@ src, dest = sys.argv[1], sys.argv[2]
 os.makedirs(dest, exist_ok=True)
 for f in sorted(glob.glob(os.path.join(src, '*.pw.toml'))):
     d = tomllib.load(open(f, 'rb'))
-    url, name = d['download']['url'], d['filename']
+    url, name = d['download']['url'].replace(' ', '%20'), d['filename']
     out = os.path.join(dest, name)
     with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'Knito58/villager-wake cf-check'})) as r:
         data = r.read()
