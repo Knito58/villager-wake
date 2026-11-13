@@ -1,0 +1,18 @@
+filename = 'amber-fabric-11.7.0+26.3.jar'
+name = 'Amber Lib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'amber-fabric-11.7.0+26.3'
+
+[download]
+hash = '09fbb530a7abe9144d5690db8f92b2932b4dd6d5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9058819
+project-id = 1139910

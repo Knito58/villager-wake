@@ -1,6 +1,6 @@
 filename = 'formationsoverworld-1.0.5c-mc1.21+.jar'
 name = 'Formations Overworld'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.21',
@@ -22,18 +22,18 @@ x-prismlauncher-mc-versions = [
     '26.3'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.5c-mc1.21+'
+x-prismlauncher-version-number = 'Formations Overworld 1.0.5c For Minecraft 1.21+'
 
 [download]
-hash = '1266db4bd02ea08ba73b0f8f525adddf4bfe3217eeca0f86715d72ee26db05ebb8d0c3c92c360132408015fed1391e7b20c459b3e6681372613367204390d3cf'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/KX1XC0Oo/versions/jRPqlunS/formationsoverworld-1.0.5c-mc1.21%2B.jar'
+hash = '717033f8239062de6eeac77d9664258fc6c657bc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'KX1XC0Oo'
-version = 'jRPqlunS'
+[update.curseforge]
+file-id = 8897484
+project-id = 915324
 
 [[x-prismlauncher-dependencies]]
-addonId = 'tPe4xnPd'
+addonId = '915115'
 type = 'REQUIRED'

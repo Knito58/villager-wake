@@ -1,0 +1,7 @@
+{
+  "gps": {
+    "gpsSensorRange": 7,
+    "upgradedGpsSensorRange": 11,
+    "upgradedGpsSensorMaxRadius": 4
+  }
+}

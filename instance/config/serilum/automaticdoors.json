@@ -1,0 +1,19 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Automatic Doors -> Config",
+	"Enable Automatic Doors": {
+		"//": "Whether Automatic Doors is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"doorOpenTime": {
+		"//": "The time in ms the door should stay open. min: 0, max: 10,000",
+		"value": 2500
+	},
+	"shouldOpenIronDoors": {
+		"//": "When enabled, iron doors will also be opened automatically.",
+		"value": true
+	},
+	"preventOpeningOnSneak": {
+		"//": "When enabled, doors won't be opened automatically when the player is sneaking.",
+		"value": true
+	}
+}

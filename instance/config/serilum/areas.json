@@ -1,0 +1,119 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Areas -> Config",
+	"Enable Areas": {
+		"//": "Whether Areas is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"giveUnnamedAreasRandomName": {
+		"//": "When enabled, gives signs without an area name a randomly chosen one from a preset list.",
+		"value": true
+	},
+	"radiusAroundPlayerToCheckForSigns": {
+		"//": "The radius in blocks around the player in which to check for area signs. min: 0, max: 1,000",
+		"value": 100
+	},
+	"defaultAreaRadius": {
+		"//": "The default radius for areas when it's left empty on the sign. It will be added automatically. min: 0, max: 1,000",
+		"value": 30
+	},
+	"areaRadiusIgnoresHeight": {
+		"//": "When enabled, only the horizontal distance to an area sign counts, so an area reaches from the bottom to the top of the world within its radius. Useful for tall buildings.",
+		"value": false
+	},
+	"sendChatMessages": {
+		"//": "When enabled, sends the player the area notifications in chat.",
+		"value": false
+	},
+	"showHUDMessages": {
+		"//": "When enabled, sends the player the area notifications in the HUD on screen.",
+		"value": true
+	},
+	"showEnterMessage": {
+		"//": "Whether a message should be sent when a player enters an area.",
+		"value": true
+	},
+	"enterPrefix": {
+		"//": "The prefix of the message whenever a player enters an area.",
+		"value": "Entering "
+	},
+	"enterSuffix": {
+		"//": "The suffix of the message whenever a player enters an area.",
+		"value": "."
+	},
+	"showLeaveMessage": {
+		"//": "Whether a message should be sent when a player leaves an area.",
+		"value": true
+	},
+	"leavePrefix": {
+		"//": "The prefix of the message whenever a player leaves an area.",
+		"value": "Leaving "
+	},
+	"leaveSuffix": {
+		"//": "The suffix of the message whenever a player leaves an area.",
+		"value": "."
+	},
+	"showHUDTextShadow": {
+		"//": "Whether the text shown should be drawn with a shadow.",
+		"value": true
+	},
+	"HUDMessageFadeDelayMs": {
+		"//": "The delay in ms after which the HUD message should fade out. min: 100, max: 360,000",
+		"value": 4000
+	},
+	"HUDMessageHeightOffset": {
+		"//": "The vertical offset (y coord) for the HUD message. This determines how far down the message should be on the screen. Can be changed to prevent GUIs from overlapping. min: 0, max: 3,000",
+		"value": 10
+	},
+	"HUD_FontSizeScaleModifier": {
+		"//": "Increases the font size of the text in the HUD message. If you change this value, make sure to test the different GUI scale settings in-game. 6.0 is considered large. min: 0, max: 10",
+		"value": 1.0
+	},
+	"HUD_RGB": {
+		"//": "The colour of the HUD message, as red, green and blue values from 0 to 255.",
+		"value": "100,200,50"
+	},
+	"useSeparateRegionAndZoneSettings": {
+		"//": "When enabled, signs starting with [Region] or [Zone] use the region and zone settings below for their messages and colour, instead of the general ones. [Area] signs always use the general settings.",
+		"value": false
+	},
+	"regionEnterPrefix": {
+		"//": "The prefix of the message whenever a player enters a region.",
+		"value": "Entering "
+	},
+	"regionEnterSuffix": {
+		"//": "The suffix of the message whenever a player enters a region.",
+		"value": "."
+	},
+	"regionLeavePrefix": {
+		"//": "The prefix of the message whenever a player leaves a region.",
+		"value": "Leaving "
+	},
+	"regionLeaveSuffix": {
+		"//": "The suffix of the message whenever a player leaves a region.",
+		"value": "."
+	},
+	"region_HUD_RGB": {
+		"//": "The colour of the HUD message for regions, as red, green and blue values from 0 to 255.",
+		"value": "100,200,50"
+	},
+	"zoneEnterPrefix": {
+		"//": "The prefix of the message whenever a player enters a zone.",
+		"value": "Entering "
+	},
+	"zoneEnterSuffix": {
+		"//": "The suffix of the message whenever a player enters a zone.",
+		"value": "."
+	},
+	"zoneLeavePrefix": {
+		"//": "The prefix of the message whenever a player leaves a zone.",
+		"value": "Leaving "
+	},
+	"zoneLeaveSuffix": {
+		"//": "The suffix of the message whenever a player leaves a zone.",
+		"value": "."
+	},
+	"zone_HUD_RGB": {
+		"//": "The colour of the HUD message for zones, as red, green and blue values from 0 to 255.",
+		"value": "100,200,50"
+	}
+}

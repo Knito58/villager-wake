@@ -1,0 +1,194 @@
+// Villagers at Work: core configuration.
+// JSON5-style: comments are allowed. Missing keys are restored with their defaults.
+// Every option is described at https://msameer.github.io/vaw-public/customization/configuration.html
+{
+  // Who carries output from workstation containers to village storage.
+  // Allays haul only if nobody has given them an item; any allay you give an item to stays vanilla.
+  // Off leaves every allay entirely vanilla.
+  // One of: allays, villagers, off.
+  "haulingMode": "allays",
+
+  // How far, in blocks, a villager walks to reach village storage.
+  // Guards an invariant: vanilla pathfinding fails silently on long routes. Do not raise it without measuring.
+  // Range: 8..128.
+  "depositRange": 48,
+
+  // How far, in blocks, a villager works around its workstation, by workstation block id.
+  // The composter is the farmer's field, a square this far out each way: 4 is a 9x9.
+  // The smoker and the loom are where the butcher and the shepherd look for animals, and the barrel
+  // is where the fisherman looks for water. A block left out keeps its default, and a modded
+  // workstation takes its profession's vanilla one. Every other profession works at its station.
+  // Larger areas cost more to scan, the farmer's most of all. Replaces workstationRange and fishingRange.
+  // Range: 1..64.
+  "serviceAreas": {
+    "minecraft:composter": 4,
+    "minecraft:smoker": 16,
+    "minecraft:loom": 16,
+    "minecraft:barrel": 8
+  },
+
+  // How many species one butcher manages (see the wiki: Animals).
+  // Range: 1..8.
+  "speciesPerAnimalWorker": 2,
+
+  // Culling never takes a species below this many adults.
+  // Guards an invariant: 0 lets a butcher cull a species to extinction.
+  // Range: 0..64.
+  "perSpeciesFloor": 4,
+
+  // Let a butcher with feed and no culling tool breed its animals and never cull them, for a
+  // cramming farm. Off, a butcher needs its culling tool, a Farmer's Delight knife where that mod is
+  // installed and an axe where it is not: without one it breeds nothing, shows the tool it is
+  // missing, and the toolsmith makes it one.
+  "breedOnlyButchers": false,
+
+  // How long, in ticks, a butcher stands at its smoker with the animal before killing it, and the longest
+  // it waits by the fence for an animal that does not come: one it went to over the fence, or one on its lead
+  // that cannot get out, which it then lifts out. Without it the kill lands the moment the butcher is near
+  // enough, which reads as culling on the way past. 0 kills on arrival, as it used to.
+  // Range: 0..200.
+  "cullPauseTicks": 20,
+
+  // Chance that each bone meal the farmer collects goes on its own crops rather than to storage.
+  // Rolled independently every time, never alternated.
+  // Range: 0.0..1.0.
+  "fieldUseChance": 0.5,
+
+  // Chance that a fisherman's catch is junk (string, sticks, leather, bones...) rather than fish.
+  // Vanilla's is about 0.1, at which a fisherman cannot even replace its own rod. Villagers only:
+  // a player's fishing is untouched. Treasure is never caught by a villager either way.
+  // Range: 0.0..1.0.
+  "fishingJunkChance": 0.5,
+
+  // Plants a farmer must leave alone, by block id, for example ["minecraft:sweet_berry_bush"].
+  // A listed plant stops being a crop: it is never harvested and never sown, and because it is still
+  // something standing on the ground it is never tilled under or replanted over either.
+  "doNotHarvest": [],
+
+  // Let the farmer plant the crops it harvests without uprooting: sugar cane, bamboo and cactus,
+  // sweet berry bushes, and Farmer's Delight rice beside rice already growing. Off, it still
+  // harvests them but never plants a new one, so they stay where you put them.
+  "plantPerennials": true,
+
+  // Let the farmer plant cane, bamboo or cactus on ground within farmland's water range while dry
+  // ground is still free. Water in a field is usually there to keep farmland moist, and a cutting
+  // planted on its bank takes that plot for good, so by default the farmer keeps to dry ground.
+  // A plant that only stands beside water, such as sugar cane, is unaffected either way.
+  "plantCuttingsNearWater": false,
+
+  // Let the toolsmith make a hoe for every farmer. The hoe is what grows a farmer's field: without
+  // one it still harvests, replants and sows the farmland already there, but never tills new ground
+  // or plants on open ground. Off, a farmer gets a hoe only from you, on its shelf, so you choose
+  // which fields grow.
+  "toolsmithMakesHoes": true,
+
+  // How often, in seconds, an animal worker recounts the animals it manages.
+  // Range: 1..300.
+  "censusRescanSeconds": 5,
+
+  // How often, in ticks, a villager re-checks the shelf and chests around its workstation.
+  // Results are cached in between; scans never run every tick.
+  // Range: 5..1200.
+  "bindingRescanTicks": 20,
+
+  // How often, in seconds, a villager missing more than one mandatory item repeats its angry particles.
+  // Range: 1..60.
+  "signalIntervalSeconds": 4,
+
+  // How hard a villager works: the share of its time it spends working while it has work to do, the
+  // rest taken as breaks (breakTicks). At 0.7 it works 70% of that time.
+  // 1.0 is the old behaviour exactly — every task the moment it appears and no breaks, which reads as
+  // a machine: it harvests a crop on the tick it ripens, empties its field, then stands still all day.
+  // Guards an invariant: 0.0 means the villager never takes on new work at all, and stands at a fully
+  // stocked station doing nothing.
+  // With the MCA extension this is what a villager in a middling mood works at: a happier one works harder.
+  // Range: 0.0..1.0.
+  "productivity": 0.7,
+
+  // Productivity for one profession, by id, for example {"minecraft:farmer": 0.9}.
+  // Range: 0.0..1.0.
+  "productivityOverrides": {},
+
+  // How long, in ticks, a villager's break from work lasts. Below productivity 1.0 a villager owes
+  // rest for the work it does, and takes it as a break once it owes a whole one: at 0.7 it works
+  // 70% of the time it has work, so a 5-second break comes after about 12 seconds of work.
+  // Range: 20..2400.
+  "breakTicks": 100,
+
+  // How long, in ticks, a villager works to craft or exchange one batch.
+  // Range: 20..1200.
+  "workDurationTicks": 100,
+
+  // How dearly a villager avoids water on its way to work, as a pathfinding cost per block of it.
+  // Vanilla's own cost is 8, which a short cut across a pool easily beats, and this mod sends villagers
+  // much further than vanilla does — past your fisherman's pond, all day. Raising it sends them round.
+  // It is a cost and never a wall: storage across a stream is still reachable, just last. 8 is vanilla.
+  // Range: 0..64.
+  "waterAvoidance": 32,
+
+  // How long, in ticks, a villager keeps trying to reach a chest or shelf it cannot path to, or an animal that cannot come to it.
+  // Range: 40..2400.
+  "unreachableTimeoutTicks": 200,
+
+  // How long, in ticks, a chest, shelf or animal a villager could not reach is skipped before it is tried again.
+  // A hauling villager or an errand-running child skips a chest or shelf for the rest of the day instead, unless the daylight cycle is off.
+  // Range: 100..24000.
+  "unreachableCooldownTicks": 1200,
+
+  // Enchantments a librarian may put on books, by id. "*" allows every enchantment.
+  "allowedEnchantments": [
+    "*"
+  ],
+
+  // Use vanilla trade rates for the cleric's rotten flesh to lapis exchange.
+  "clericUseVanillaRates": false,
+
+  // Lapis produced from a stack of rotten flesh when clericUseVanillaRates is false: about 7 flesh per lapis, against vanilla's 32.
+  // Range: 1..64.
+  "clericLapisPerStack": 9,
+
+  // Emerald prices the village pays the wandering trader, by item id. Empty uses the datapack prices.
+  // Range: 1..64.
+  "traderPrices": {},
+
+  // How a butcher gets a large animal to its smoker.
+  // over_fence kills it in its pen and takes the drops over the fence — always available, and the
+  //   only thing a pen of walls or trapdoors can do.
+  // lead_teleport is the default: it walks the animal out through a gate that stays shut, so the rest
+  //   of the herd stays in, and lifts one that cannot reach the gate past it rather than giving up on
+  //   it, so an animal always reaches the smoker. lead, the same without the lift, is gone: it reads
+  //   as lead_teleport.
+  // Small animals are carried whatever this says. Replaces cullingTransport: false is over_fence.
+  // One of: over_fence, lead_teleport.
+  "cullingMode": "lead_teleport",
+
+  // Errands a village child runs in a day, carrying a working villager's output to a shelf that
+  // ordered it or to storage, during working hours only. 0 turns children's errands off.
+  // Range: 0..8.
+  "childErrandsPerDay": 2,
+
+  // How many of an item a customer's shelf is filled to, by item id or by the tag a profession's
+  // requirements name, for example {"minecraft:wheat": 32, "#vaw:animal_feed": 8}. The shelf asks
+  // for more while it holds less. An item's own entry wins over its tag's. Left out, an item keeps its
+  // datapack's max, or one use's worth: butcher feed 16 on top of the one kept back, sugar cane 18,
+  // sticks (a fisherman's 8), leather, string, feathers, paper and rotten flesh 64, and the
+  // toolsmith's metals 16. Fuel is never on a shelf: see stationFuelLoad.
+  // Range: 1..1024.
+  "restockCaps": {},
+
+  // The least of an item a villager carries to a customer's shelf, so the walk is worth it, by item
+  // id or tag as restockCaps. A smaller load waits until the villager has more, its inventory is
+  // full, or work ends. Left out, it is half the item's cap when the cap is 16 or more, and the whole
+  // cap below that.
+  // Range: 1..1024.
+  "restockMinOrders": {},
+
+  // Let the farmer bring its bamboo to workstations that burn fuel and have no shelf attached, such
+  // as the smoker of a villager the mod does not put to work. Off, only workstations with a shelf
+  // attached get fuel. A plain furnace is no workstation, so yours are left alone either way.
+  "fuelStationsWithoutShelf": false,
+
+  // How much bamboo the farmer carries before it takes it to a workstation's fuel slot.
+  // Range: 1..64.
+  "stationFuelLoad": 16
+}

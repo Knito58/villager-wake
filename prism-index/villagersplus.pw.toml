@@ -1,0 +1,25 @@
+filename = 'villagersplus-fabric-mc26.3-4.1.0.jar'
+name = 'VillagersPlus (Fabric/Neoforge)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'VillagersPlus 4.1.0 (Fabric) 26.3'
+
+[download]
+hash = 'ec2410fe6ae178db22bbe982a934ab3e493c2bc5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9346769
+project-id = 809542
+
+[[x-prismlauncher-dependencies]]
+addonId = '1635301'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

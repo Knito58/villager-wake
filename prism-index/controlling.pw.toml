@@ -1,0 +1,25 @@
+filename = 'Controlling-fabric-26.3-26.3.4.jar'
+name = 'Controlling'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Controlling-fabric-26.3-26.3.4.jar'
+
+[download]
+hash = 'c08b9b1ab6e5850c869ae4c22aa8205d164f7304'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9110875
+project-id = 250398
+
+[[x-prismlauncher-dependencies]]
+addonId = '858542'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

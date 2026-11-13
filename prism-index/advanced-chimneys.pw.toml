@@ -1,0 +1,121 @@
+filename = 'adchimneys-26.3.0.2-fabric-build.0152.jar'
+name = 'Advanced Chimneys'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'adchimneys-26.3.0.2-fabric-build.0152.jar'
+
+[download]
+hash = '0138898e733a7c2db4abf8e7ccbfd86ad5c9ca60'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9382884
+project-id = 244830
+
+[[x-prismlauncher-dependencies]]
+addonId = '1074382'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1494004'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1436171'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '633483'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '281849'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1422293'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '691049'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268566'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '228189'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '840254'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '479516'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '897116'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '869316'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1184570'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '359407'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '231951'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '74072'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '237664'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '64760'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '363593'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '576846'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1653026'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '370614'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'OPTIONAL'

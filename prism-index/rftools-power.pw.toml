@@ -1,0 +1,37 @@
+filename = 'rftoolspower-fabric-26.3-10.0.2-fabric.jar'
+name = 'RFToolsPower'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'RFToolsPower - 26.3-10.0.2-fabric'
+
+[download]
+hash = '6b811182cffbf09cb8dfd31c1c8a6c6bb43545c8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9556937
+project-id = 290209
+
+[[x-prismlauncher-dependencies]]
+addonId = '326041'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '233105'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '245211'
+type = 'OPTIONAL'

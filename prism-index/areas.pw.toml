@@ -1,21 +1,21 @@
-filename = 'areas-26.1.2-6.3.jar'
+filename = 'areas-26.3.0-7.0.jar'
 name = 'Areas'
-side = 'client'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '26.1.2-6.3-fabric+forge+neo'
+x-prismlauncher-version-number = '[Fabric/Forge/Neo] 26.3.0-7.0 | Areas'
 
 [download]
-hash = '9c1f37612716620074f8efdaf380b935b20e12968f7ec7f318e898e7e15ee828b8171b44e84d391a38b8344cd2ed883e2549cf5dd24ee9c937969e7a5bf39ee5'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/NWvsqJ2Z/versions/z9nXuVFm/areas-26.1.2-6.3.jar'
+hash = 'c090499f4be2de071f09a7ff0e7a5ad79e7c3cce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'NWvsqJ2Z'
-version = 'z9nXuVFm'
+[update.curseforge]
+file-id = 9276954
+project-id = 391701
 
 [[x-prismlauncher-dependencies]]
-addonId = 'e0M1UDsY'
+addonId = '342584'
 type = 'REQUIRED'

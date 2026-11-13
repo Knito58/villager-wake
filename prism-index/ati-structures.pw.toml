@@ -1,0 +1,18 @@
+filename = 'ATi Structure V1.4.7 (26.3).jar'
+name = 'ATi Structures'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ATi Structure V1.4.7 (26.3).jar'
+
+[download]
+hash = 'ec386fff151fe12e54403da07e42e8bb3ec9817b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8984314
+project-id = 964608

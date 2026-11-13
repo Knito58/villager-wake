@@ -1,0 +1,9 @@
+	[general.general]
+		#If the lid should open when accessing the chest GUI.
+		visuallyOpen = true
+		#If the interface input overlay should always be rendered on chests.
+		alwaysShowInterfaceOverlay = true
+
+	[general.colossal_chest]
+		#If the chest should visually open when someone uses it.
+		chestAnimation = true

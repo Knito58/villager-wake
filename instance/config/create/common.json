@@ -1,0 +1,9 @@
+{
+  "worldgen": {
+    "comment": "Modify Create's impact on your terrain",
+    "disableWorldGen": {
+      "comment": "Prevents all worldgen added by Create from taking effect",
+      "value": false
+    }
+  }
+}

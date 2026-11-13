@@ -1,0 +1,3 @@
+	[core.general]
+		#Maximum buffer byte size for adaptive inventory slots fragmentation.
+		maxPacketBufferSize = 20000

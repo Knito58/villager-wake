@@ -1,0 +1,21 @@
+filename = 'ExtendedDrawersExtensions-5.2.0+mc.26.3.jar'
+name = 'Extended Drawers: Extensions'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v5.2.0 [26.3]'
+
+[download]
+hash = '46dec2937abba5015b994013002b5ad7e8d4cebb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9133800
+project-id = 1371952
+
+[[x-prismlauncher-dependencies]]
+addonId = '616602'
+type = 'REQUIRED'

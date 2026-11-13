@@ -1,0 +1,6 @@
+{
+  "id": "lapis",
+  "item": "minecraft:lapis_lazuli",
+  "weight": 10,
+  "ticksAt32": 100
+}

@@ -1,0 +1,37 @@
+
+# The range at which the chicken nest picks up laid eggs.
+chickenNestRange = 8
+
+# If true, farmland will not become moist from nearby water. Rain and Watering Cans still hydrate farmland.
+disableVanillaWatering = false
+
+# List of groups to disable. Has precedence over includedGroups. 'selling.seeds' for example would disable all seeds from the market.
+excludedGroups = [  ]
+
+# The maximum amount of animals (per type) until the feeding trough stops feeding.
+feedingTroughMaxAnimals = 24
+
+# The range within animals can be fed by the feeding trough.
+feedingTroughRange = 8
+
+# The chance to get a bonus crop when using Green Fertilizer.
+fertilizerBonusCropChance = 1.0
+
+# The chance to get a bonus growth when using Red Fertilizer.
+fertilizerBonusGrowthChance = 1.0
+
+# The chance for Fertilized Farmland to turn back into regular Farmland (per provided bonus).
+fertilizerRegressionChance = 0.0
+
+# The chance to get a bonus growth on farmland hydrated by a Watering Can.
+hydrationBonusGrowthChance = 1.0
+
+# List of groups to enable. 'default' is an alias for the inbuilt defaults (selling.seeds, selling.saplings and selling.fertilizers.minecraft).
+includedGroups = [ "default" ]
+
+# List of names the merchant can have.
+merchantNames = [ "Swap-O-Matic", "Emerald Muncher", "Weathered Salesperson" ]
+
+# If true, merchants will be considered babies (on a technical level only), which may resolve exploits based on merchant death loot (like blood)
+treatMerchantsLikeBabies = false
+

@@ -1,0 +1,29 @@
+# UncraftEverything Client Configuration
+
+[Behaviour]
+	# Auto move uncrafted items to player inventory, drops to world if inventory is full.
+	autoMoveToInventory = true
+	# Show the Uncrafting category in JEI. Only affects you, other players are not affected.
+	showJeiUncraftingCategory = true
+
+[StatusColor]
+	# Overlay color for No Recipe Found
+	noRecipeFound = -40612
+	# Overlay color for No Suitable Output Slot
+	noSuitableOutputSlotColor = -226487
+	# Overlay color for Not Enough Exp
+	notEnoughExpColor = -852102
+	# Overlay color for Not Enough Input Item
+	notEnoughInputItemColor = -4288
+	# Overlay color for Not Empty Shulker
+	notEmptyShulkerColor = -1799425
+	# Overlay color for Restricted By Config
+	restrictedByConfigColor = -11579569
+	# Overlay color for Damaged Item
+	damagedItemColor = -40612
+	# Overlay color for Enchanted Item
+	enchantedItemColor = -40612
+	# Overlay color for Locked Item
+	lockedItemColor = -40612
+	# Overlay color for Progression Not Defined
+	progressionNotDefinedColor = -40612

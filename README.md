@@ -1,20 +1,23 @@
 # Villager Wake
 
-A Fabric modpack for Minecraft 26.1.2.
+A Fabric modpack for Minecraft 26.3 (Fabric Loader 0.20.1, Java 25).
 
-`prism-index/` holds the mod list as exported from the Prism Launcher instance
-(one `.pw.toml` per mod).
+## Layout
 
-## CurseForge check
-
-The workflow **Check mods on CurseForge** (Actions tab, run manually) downloads
-every jar of the pack and asks CurseForge which of them it knows, by file
-fingerprint. Mods it does not know are looked up by name. The result lands in
-`reports/curseforge-check.md`.
+- `prism-index/` holds the mod list as exported from the Prism Launcher instance
+  (one `.pw.toml` per mod, each with its CurseForge project and file id).
+- `instance/` is a snapshot of the Prism instance settings: `instance.cfg`
+  (without local paths and play statistics), `mmc-pack.json`, `options.txt`,
+  the shader pack list and options (`instance/shaderpacks/`) and the mod
+  configs (`instance/config/`). Jars, worlds, logs and caches are not stored.
+- `overrides/` holds only settings that were changed on purpose (Starter Kit,
+  Tiered Backpacks, Advanced Chimneys, Mineral Chance, Uncraft Everything,
+  Waystones, Thief, Configurable Despawn Timer, Your Items Are Safe). They
+  are copied into the pack.
 
 ## Building the pack
 
-The workflow **Make CurseForge pack** builds `pack/` (a packwiz pack that uses
-CurseForge mods only) from the Prism list, adds the config files from
-`overrides/`, and writes the CurseForge modpack zip to `dist/`.
-`overrides/` holds only settings that were changed on purpose (for now: Thief).
+The workflow **Make CurseForge pack** (Actions tab, run manually) builds `pack/`
+(a packwiz pack) from the CurseForge ids in `prism-index/` and
+`instance/shaderpacks/`, adds `overrides/`, and writes the CurseForge modpack
+zip to `dist/` and a result table to `reports/make-pack.md`.

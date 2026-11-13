@@ -1,0 +1,25 @@
+filename = 'StorageDrawers-fabric-26.3.0.1.jar'
+name = 'Storage Drawers'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Storage Drawers-fabric-26.3.0.1'
+
+[download]
+hash = '3f8d04a8a4a0c9fc8dd5885fc96808f285af57eb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9007424
+project-id = 223852
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'OPTIONAL'

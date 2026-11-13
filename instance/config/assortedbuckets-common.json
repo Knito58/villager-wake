@@ -1,0 +1,137 @@
+{
+  "better_buckets": {
+    "wood": {
+      "maxBuckets": 1,
+      "milkingLevel": 0,
+      "maxPickupTemp": 1000.0,
+      "breaksAfterUse": true
+    },
+    "stone": {
+      "maxBuckets": 1,
+      "milkingLevel": 0,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": true
+    },
+    "gold": {
+      "maxBuckets": 4,
+      "milkingLevel": 0,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "diamond": {
+      "maxBuckets": 16,
+      "milkingLevel": 1,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "netherite": {
+      "maxBuckets": 64,
+      "milkingLevel": 2,
+      "maxPickupTemp": 10000.0,
+      "breaksAfterUse": false
+    },
+    "tin": {
+      "maxBuckets": 4,
+      "milkingLevel": 0,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "copper": {
+      "maxBuckets": 8,
+      "milkingLevel": 0,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "silver": {
+      "maxBuckets": 12,
+      "milkingLevel": 1,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "aluminum": {
+      "maxBuckets": 2,
+      "milkingLevel": 0,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "nickel": {
+      "maxBuckets": 8,
+      "milkingLevel": 1,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "platinum": {
+      "maxBuckets": 24,
+      "milkingLevel": 2,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "lead": {
+      "maxBuckets": 4,
+      "milkingLevel": 0,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "bronze": {
+      "maxBuckets": 8,
+      "milkingLevel": 1,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "electrum": {
+      "maxBuckets": 18,
+      "milkingLevel": 1,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "invar": {
+      "maxBuckets": 10,
+      "milkingLevel": 1,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "steel": {
+      "maxBuckets": 16,
+      "milkingLevel": 1,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "ruby": {
+      "maxBuckets": 8,
+      "milkingLevel": 1,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "amethyst": {
+      "maxBuckets": 8,
+      "milkingLevel": 0,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "sapphire": {
+      "maxBuckets": 8,
+      "milkingLevel": 0,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "topaz": {
+      "maxBuckets": 8,
+      "milkingLevel": 0,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "emerald": {
+      "maxBuckets": 10,
+      "milkingLevel": 1,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "peridot": {
+      "maxBuckets": 8,
+      "milkingLevel": 0,
+      "maxPickupTemp": 5000.0,
+      "breaksAfterUse": false
+    },
+    "allowPartialBucketAmounts": false
+  }
+}

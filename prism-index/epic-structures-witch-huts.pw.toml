@@ -1,0 +1,18 @@
+filename = 'Epic Witch Huts v1.3.2 (26.3).jar'
+name = 'Epic Structures: Witch Huts'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Epic Witch Huts v1.3.2 (26.3).jar'
+
+[download]
+hash = 'e3d663c96042421ad3974f85e028a348a7ab3d40'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8984107
+project-id = 1335768

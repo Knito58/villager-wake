@@ -1,0 +1,6 @@
+{
+  "id": "gold",
+  "item": "minecraft:raw_gold",
+  "weight": 12,
+  "ticksAt32": 140
+}

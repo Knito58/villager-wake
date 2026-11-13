@@ -1,0 +1,21 @@
+filename = 'radio_towers_and_airdrops-1.0.0-fabric-26.3.jar'
+name = 'Radio Towers Lite'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Radio Towers and Airdrops 1.0.0 Lite for Fabric 26.3'
+
+[download]
+hash = '665232cfc7a395047a4fb9d078168bd1e2484ead'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9243817
+project-id = 1523581
+
+[[x-prismlauncher-dependencies]]
+addonId = '1160598'
+type = 'REQUIRED'

@@ -1,18 +1,18 @@
-filename = 'create-fly-26.1.2-6.0.9-4.jar'
+filename = 'create-fly-26.3-6.0.9-2.jar'
 name = 'Create Fly'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1.2' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '26.1.2-6.0.9-4'
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Create 6.0.9 build-2 for 26.3'
 
 [download]
-hash = '5930cc930a053614b2d5b0340403093af5c08c8524ab5ae3290377f7deb002ebcd2ac1e678f788d52274b1a057f45f204c2890c6ad03d7a3574181ce01efdd34'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/dKvj0eNn/versions/wV5IQLKg/create-fly-26.1.2-6.0.9-4.jar'
+hash = 'e16ce9c274626fd20c90031564daf09156ecf699'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'dKvj0eNn'
-version = 'wV5IQLKg'
+[update.curseforge]
+file-id = 9486174
+project-id = 1346281

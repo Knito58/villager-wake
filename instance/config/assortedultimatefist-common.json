@@ -1,0 +1,13 @@
+{
+  "ultimate_fist": {
+    "ultimate": {
+      "maxUses": 1561,
+      "enchantability": 0,
+      "harvestLevel": 4,
+      "efficiency": 64.0,
+      "damage": 64.0,
+      "axeDamage": 0.0,
+      "axeSpeed": 0.0
+    }
+  }
+}

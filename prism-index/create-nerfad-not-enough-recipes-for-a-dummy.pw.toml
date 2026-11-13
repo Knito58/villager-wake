@@ -1,0 +1,21 @@
+filename = 'create_nerfad-1-2-13.jar'
+name = 'Create: Nerfad – Not Enough Recipes For A Dummy'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2', '26.2', '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create: Nerfad 1.2.13'
+
+[download]
+hash = '9413fbdf8023cbabcce8235c6663aa050153ed2e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9474510
+project-id = 1757335
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

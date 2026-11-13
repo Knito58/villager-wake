@@ -1,0 +1,25 @@
+filename = 'beginnersdelight-0.8.1+26.3-fabric.jar'
+name = "Beginner's Delight"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Beginner's Delight 0.8.1"
+
+[download]
+hash = '1b73b33b6df87740199b6b591b57df8139ba07a4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8917877
+project-id = 1449883
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'OPTIONAL'

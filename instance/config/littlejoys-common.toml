@@ -1,0 +1,119 @@
+[blessings]
+
+# The chance for Star of Abundance to duplicate a valid block drop. No use is consumed when the roll fails.
+starOfAbundanceBlockDropChance = 0.1
+
+# The chance for Star of Abundance to duplicate a valid fishing drop. No use is consumed when the roll fails.
+starOfAbundanceFishingDropChance = 0.3
+
+# The chance for Star of Abundance to duplicate a valid mob drop. No use is consumed when the roll fails.
+starOfAbundanceMobDropChance = 0.2
+
+# The chance for Star of Prosperity to bonemeal a placed bonemealable block. No use is consumed when the roll fails.
+starOfProsperityBonemealChance = 0.1
+
+# The chance for Star of Prosperity to cause animals breeding nearby to have twins. No use is consumed when the roll fails.
+starOfProsperityTwinChance = 0.2
+
+# The chance per second for Star of Serenity to extinguish the player when on fire. No use is consumed when the roll fails.
+starOfSerenityExtinguishChance = 0.5
+
+[digSpots]
+
+# The seconds that must pass after digging a dig spot before another dig spot can appear for a player.
+afterDiggingCooldownSeconds = 600.0
+
+# If disabled, dig spots will not spawn.
+enabled = true
+
+# The minimum distance between dig spots, preventing them from spawning too close together.
+minimumDistanceBetween = 128
+
+# The offset applied to the spawn area in the direction the player is facing. Set to 0 to center it around the player.
+projectForwardDistance = 25
+
+# The distance dig spots will spawn from the player.
+spawnDistance = 32
+
+# The seconds that must pass after a dig spot appeared before another dig spot can appear for a player.
+spawnIntervalSeconds = 300.0
+
+# The limit of dig spots that can spawn in a given chunk overall. Once this many dig spots have spawned, the chunk will never spawn any again. Set to -1 to disable.
+totalLimitPerChunk = 1
+
+[dropRush]
+
+# The base chance for a drop rush to occur.
+baseChance = 0.02
+
+# If disabled, drop rushes will not trigger.
+enabled = true
+
+[fallenStars]
+
+# The chance per roll for a fallen star to start falling once the player cooldown has elapsed.
+chancePerRoll = 0.2
+
+# The seconds that must pass after a fallen star appeared before another fallen star can appear for a player.
+cooldownSeconds = 10800.0
+
+# If disabled, fallen stars will not spawn.
+enabled = true
+
+# The minimum distance between fallen stars, preventing them from spawning too close together.
+minimumDistanceBetween = 128
+
+# The seconds that must pass before another fallen star chance is rolled for a player.
+rollIntervalSeconds = 900.0
+
+# The maximum distance fallen stars can spawn in front of the player.
+spawnRange = 64
+
+[fishingSpots]
+
+# The seconds that must pass after fishing a fishing spot before another fishing spot can appear for a player.
+afterFishingCooldownSeconds = 600.0
+
+# If disabled, fishing spots will not spawn.
+enabled = true
+
+# The maximum distance a bobber can be from a fishing spot to still trigger it.
+fishingRangeTolerance = 3
+
+# The minimum distance between fishing spots, preventing them from spawning too close together.
+minimumDistanceBetween = 128
+
+# The offset applied to the spawn area in the direction the player is facing. Set to 0 to center it around the player.
+projectForwardDistance = 4
+
+# Fishing spots will lure fish quicker than regular water. Set to -1 to disable.
+secondsUntilLured = 2.0
+
+# The distance fishing spots will spawn from the player.
+spawnDistance = 8
+
+# The seconds that must pass after a fishing spot appeared before another fishing spot can appear for a player.
+spawnIntervalSeconds = 300.0
+
+# The limit of fishing spots that can spawn in a given chunk overall. Once this many fishing spots have spawned, the chunk will never spawn any again. Set to -1 to disable.
+totalLimitPerChunk = -1
+
+[goldRush]
+
+# The base chance for a gold rush to occur.
+baseChance = 0.02
+
+# If disabled, gold rushes will not trigger.
+enabled = true
+
+[stardewFishing]
+
+# The golden chest chance bonus applied when fishing at a fishing spot.
+fishingSpotGoldenChestChanceBonus = 0.0
+
+# The treasure chest chance bonus applied when fishing at a fishing spot.
+fishingSpotTreasureChestChanceBonus = 0.0
+
+# If enabled, Little Joy's own fishing spot rewards will be skipped when Stardew Fishing minigames take over.
+skipFishingSpotRewards = false
+

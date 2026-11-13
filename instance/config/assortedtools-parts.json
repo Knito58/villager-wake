@@ -1,0 +1,18 @@
+{
+  "parts": {
+    "assortedboomerangs": true,
+    "assortedbuckets": true,
+    "assortedgearsets": true,
+    "assortedhammers": true,
+    "assortedmachetes": true,
+    "assortedmultitools": true,
+    "assortedpokeball": true,
+    "assortedportableworkbench": true,
+    "assortedshears": true,
+    "assortedstaffs": true,
+    "assortedsuits": true,
+    "assortedthrowingspears": true,
+    "assortedultimatefist": true,
+    "assortedwands": true
+  }
+}

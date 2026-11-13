@@ -1,0 +1,27 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Random Village Names -> Config",
+	"Enable Random Village Names": {
+		"//": "Whether Random Village Names is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"customVillageNames": {
+		"//": "Your own village names, one per line in the config screen. A village gets a random name from this list, together with Collective's names when 'useCollectiveVillageNames' is enabled.",
+		"value": []
+	},
+	"useCollectiveVillageNames": {
+		"//": "Whether villages can also get a name from Collective's built-in list, which is editable in ./config/serilum/collective/area_names.json.",
+		"value": true
+	},
+	"useEachNameOnce": {
+		"//": "If enabled, a village name is only used again once every name has been given to a village in that dimension.",
+		"value": false
+	},
+	"placeSignsUnderground": {
+		"//": "If enabled, the village name sign is placed underground below the village center, where it can't be broken by accident. Areas still finds it.",
+		"value": false
+	},
+	"undergroundSignDepth": {
+		"//": "How many blocks below the surface the sign is placed when 'placeSignsUnderground' is enabled. min: 1, max: 10",
+		"value": 3
+	}
+}

@@ -1,0 +1,7 @@
+	[general.general]
+		#If potion abilities should show particle effects. This will also make them appear as in-game symbols.
+		showPotionEffectParticles = false
+		#If players should have particle effects for the abilities they carry.
+		showPlayerParticles = false
+		#If on-player entities should have particle effects for the abilities they carry.
+		showEntityParticles = true

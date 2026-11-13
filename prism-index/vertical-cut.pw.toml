@@ -1,0 +1,25 @@
+filename = 'vertical-cut-1.0.3.jar'
+name = 'Vertical Cut'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Vertical Cut 1.0.3'
+
+[download]
+hash = '175fa680da8e4342738bbe34313c92d4f770d5bb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9538021
+project-id = 1757767
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'

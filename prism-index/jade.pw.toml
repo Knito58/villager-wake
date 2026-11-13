@@ -1,25 +1,25 @@
-filename = 'Jade-mc26.1-Fabric-26.1.11.jar'
+filename = 'Jade-mc26.3-Fabric-26.3.5.jar'
 name = 'Jade 🔍'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '26.1.11+fabric'
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric 26.3.X] 26.3.5'
 
 [download]
-hash = 'a1d9e3477989d04917824e904648f6ef5e7a3e730266eeb8e5a3bca96b851e0f8a4546bc226b6a73dcac29a4d30b9c0c14747a2f7e360c94d37e9e8fd17a4fc8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/nvQzSEkH/versions/Yo9xOce3/Jade-mc26.1-Fabric-26.1.11.jar'
+hash = 'da61413c586c8918c14e2bbfdc808ce2d56ea9df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'nvQzSEkH'
-version = 'Yo9xOce3'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
+[update.curseforge]
+file-id = 9042194
+project-id = 324717
 
 [[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
+addonId = '238222'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'midnightlib-fabric-1.10.0+26.3.jar'
+name = 'MidnightLib'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MidnightLib 1.10.0 - Fabric 26.3'
+
+[download]
+hash = 'f0b01c55aa7ba045810286bd322927e07dc6a01d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9184500
+project-id = 488090
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

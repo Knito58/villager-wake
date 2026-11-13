@@ -1,0 +1,6 @@
+{
+  "id": "coal",
+  "item": "minecraft:coal",
+  "weight": 30,
+  "ticksAt32": 60
+}

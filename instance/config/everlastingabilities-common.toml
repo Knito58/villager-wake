@@ -1,0 +1,3 @@
+	[core.ability_totem]
+		#This many totems combined in a crafting grid produces a new random totem (0 to disable)
+		totemCraftingCount = 3

@@ -1,0 +1,25 @@
+filename = 'repurposed_structures-7.8.4+26.3-fabric.jar'
+name = 'Repurposed Structures (Fabric)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Repurposed Structures v7.8.4 (26.3 MC Fabric)'
+
+[download]
+hash = 'e605070baeb5903efabf385dd64d794ae8eb947c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9131164
+project-id = 391366
+
+[[x-prismlauncher-dependencies]]
+addonId = '488090'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

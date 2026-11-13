@@ -1,29 +1,29 @@
-filename = 'hoppergadgetry-v26.1.1-mc26.1.x+fabric.jar'
+filename = 'hoppergadgetry-v26.3.1-mc26.3.x-fabric.jar'
 name = 'Hopper Gadgetry'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '26.1.1'
+x-prismlauncher-version-number = 'v26.3.1-mc26.3.x+fabric'
 
 [download]
-hash = 'fbedc778ac76fb6ac8612465b92809f01fbb7c6bf2c3a7298a8ff7c92f5660dbfa6ba6ea31baa91dacc9bbab4dfacc945cebb568a97d9f24a1dd709ad62ef022'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/RCK4uOMN/versions/UiVq1Tf3/hoppergadgetry-v26.1.1-mc26.1.x%2Bfabric.jar'
+hash = 'b323c683638cdd6b2cf74ff8bf8ada2349eeb479'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'RCK4uOMN'
-version = 'UiVq1Tf3'
+[update.curseforge]
+file-id = 9582313
+project-id = 1254698
 
 [[x-prismlauncher-dependencies]]
-addonId = 'ohNO6lps'
+addonId = '547434'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
+addonId = '495476'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'QAGBst4M'
+addonId = '306612'
 type = 'REQUIRED'

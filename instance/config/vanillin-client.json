@@ -1,0 +1,70 @@
+{
+  "blockEntities": {
+    "minecraft:chest": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:ender_chest": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:trapped_chest": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:bell": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:shulker_box": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    }
+  },
+  "entities": {
+    "minecraft:block_display": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:item_display": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:chest_minecart": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:command_block_minecart": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:furnace_minecart": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:hopper_minecart": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:minecart": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:spawner_minecart": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:tnt_minecart": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:item_frame": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    },
+    "minecraft:glow_item_frame": {
+      "comment": "Allowed Values: DEFAULT, DISABLE, FORCE_ENABLE",
+      "value": "DEFAULT"
+    }
+  }
+}

@@ -8,37 +8,37 @@
 	# Killing protected entities (#thief:killing_protected/<level>) in protected structure (#thief:protected) is considered a crime.
 	# Default: true
 	killing_protected_entities = true
+	# Picking up (with CarryOn mod) protected entities (#thief:pickup_protected/<level>) in protected structure (#thief:protected) is considered a crime.
+	# Default: true
+	picking_up_protected_entities = true
 	# Crime severity for kicking a villager out of bed.
 	# Default: LIGHT
 	#Allowed Values: NONE, LIGHT, MEDIUM, HEAVY
-	kicking_villager_out_of_bed = "LIGHT"
+	kicking_villager_out_of_bed = "MEDIUM"
 	# Crime severity for sleeping in a bed that belongs to a villager.
 	# Default: MEDIUM
 	#Allowed Values: NONE, LIGHT, MEDIUM, HEAVY
 	sleeping_in_villagers_bed = "LIGHT"
+	# Crime severity for looting an item frame.
+	# Default: LIGHT
+	#Allowed Values: NONE, LIGHT, MEDIUM, HEAVY
+	looting_item_frame = "LIGHT"
 	# Check for crimes only in #thief:protected structures. If disabled, whole world is 'protected'.
 	# Default: true.
 	crime_only_in_protected_structures = false
 	# 'You have been caught committing ...' message will be displayed in the action bar when crime is committed.
 	# Default: true
 	show_message = true
-	# Picking up (with CarryOn mod) protected entities (#thief:pickup_protected/<level>) in protected structure (#thief:protected) is considered a crime.
-	# Default: true
-	picking_up_protected_entities = true
-	# Crime severity for looting an item frame.
-	# Default: LIGHT
-	#Allowed Values: NONE, LIGHT, MEDIUM, HEAVY
-	looting_item_frame = "MEDIUM"
 
 [witness]
 	# Max distance (in blocks) at which an entity can notice a crime.
 	# Default: 32
 	# Range: 1 ~ 64
-	max_notice_distance = 8
+	max_notice_distance = 20
 	# Distance (in blocks) at which an entity always notices a crime, even through blocks. This value is halved when entity is sleeping.
 	# Default: 6
 	# Range: 0 ~ 64
-	always_notice_distance = 4
+	always_notice_distance = 8
 
 [punishment]
 	# Minimum reputation level needed for a villager to trade with the player. Anything lower will prevent the trade.
@@ -54,11 +54,11 @@
 		# [LIGHT] Value added to 'Major Negative' reputation gossip.
 		# Default: 0
 		# Range: 0 ~ 100
-		light_major_change = 2
+		light_major_change = 0
 		# [LIGHT] Value added to 'Minor Negative' reputation gossip.
 		# Default: 15
 		# Range: 0 ~ 200
-		light_minor_change = 12
+		light_minor_change = 15
 		# [MEDIUM] Value added to 'Major Negative' reputation gossip.
 		# Default: 5
 		# Range: 0 ~ 100
@@ -113,3 +113,4 @@
 	# Fix villager trade reputation (gossip) not applying properly when using shift+click to trade (shift+clicking is considered one trade operation, instead of many).
 	# Default: true.
 	fix_shift_click_villager_trading_reputation = true
+

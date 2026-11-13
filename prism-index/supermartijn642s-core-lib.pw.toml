@@ -1,21 +1,21 @@
-filename = 'supermartijn642corelib-1.1.24b-fabric-mc26.1.jar'
+filename = 'supermartijn642corelib-1.1.26d-fabric-mc26.3.jar'
 name = "SuperMartijn642's Core Lib"
 side = ''
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.24b-fabric-mc26.1'
+x-prismlauncher-version-number = "SuperMartijn642's Core Lib 1.1.26d for Fabric 26.3"
 
 [download]
-hash = '5c3ae4131ffa720f206bdd14c155e6c8aab3fc87addefc962d8a51e4f7be51a135482f84892afaa94855eac2c00e3c184c4f8d83a8852d73b18b19d30f86badd'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/rOUBggPv/versions/dLecEjWO/supermartijn642corelib-1.1.24b-fabric-mc26.1.jar'
+hash = '05aff258290fe694c4efa5b4e758a3988a7c3e29'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'rOUBggPv'
-version = 'dLecEjWO'
+[update.curseforge]
+file-id = 9447130
+project-id = 454372
 
 [[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
+addonId = '306612'
 type = 'REQUIRED'

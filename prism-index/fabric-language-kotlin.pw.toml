@@ -1,6 +1,6 @@
-filename = 'fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar'
+filename = 'fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar'
 name = 'Fabric Language Kotlin'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [
@@ -54,14 +54,14 @@ x-prismlauncher-mc-versions = [
     '26.3'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.14.1+kotlin.2.4.20'
+x-prismlauncher-version-number = 'Fabric Language Kotlin 1.14.2+kotlin.2.4.21'
 
 [download]
-hash = '91404f87774466ce8604aafea791d8cc97b603bc310dce17c8188f94f7783cca6dc14fc726ce871ca317bfe9033c199d8d858d51284106a00754e952147703b8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar'
+hash = 'f1d4ab6ecd54d9782521333a87eb50724ecb03e0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'Ha28R6CL'
-version = 'eRRZzGMc'
+[update.curseforge]
+file-id = 9106173
+project-id = 308769

@@ -1,0 +1,33 @@
+filename = 'vaw-1.4.5+26.3.jar'
+name = 'Villagers at Work'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'VaW 1.4.5'
+
+[download]
+hash = '2d275268bddba2cc8709439ceffd337427be1be3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9337474
+project-id = 1702646
+
+[[x-prismlauncher-dependencies]]
+addonId = '993166'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308769'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '535291'
+type = 'OPTIONAL'

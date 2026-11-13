@@ -1,21 +1,18 @@
-filename = 'trade-cycling-fabric-1.0.22+26.1.2.jar'
+filename = 'trade-cycling-fabric-1.0.23+26.3.jar'
 name = 'Trade Cycling'
 side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'fabric-1.0.22+26.1.2'
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FABRIC][26.3] Trade Cycling 1.0.23+26.3'
 
 [download]
-hash = 'd1e1c0208cd81f4f71ff2941ee68717df167b2f87f97e20141c08427c6ce9f5f2cb86998bddffc8b6b29e2c3901b66eaa3ec7b178824dcabd2bed1efd90fbffa'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/qpPoAL6m/versions/s3io3eO5/trade-cycling-fabric-1.0.22%2B26.1.2.jar'
+hash = 'b4dedc2e9941caf7ebf08c9352f49a5ceb317cdf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'qpPoAL6m'
-version = 's3io3eO5'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'AhllI99f'
-type = 'OPTIONAL'
+[update.curseforge]
+file-id = 9155650
+project-id = 570431

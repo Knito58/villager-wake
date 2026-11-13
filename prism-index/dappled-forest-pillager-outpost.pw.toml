@@ -1,0 +1,18 @@
+filename = 'dappled_forest_pillager_outpost-1.0.0 Fabric 26.3.jar'
+name = 'Dappled Forest Pillager Outpost'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'dappled_forest_pillager_outpost-1.0.0 Fabric 26.3.jar'
+
+[download]
+hash = '3f71b6c97aefb8ad57c834424576ba09940cfad8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9023863
+project-id = 1720239

@@ -1,0 +1,31 @@
+{
+  "backend": {
+    "comment": [
+      "Select the backend to use. Set to 'DEFAULT' to let Flywheel decide.",
+      "Allowed Values: DEFAULT, OFF, namespace:path"
+    ],
+    "value": "DEFAULT"
+  },
+  "limitUpdates": {
+    "comment": "Enable or disable instance update limiting with distance.",
+    "value": true
+  },
+  "workerThreads": {
+    "comment": [
+      "The number of worker threads to use. Set to -1 to let Flywheel decide. Set to 0 to disable parallelism. Requires a game restart to take effect.",
+      "Default: -1",
+      "Range: -1 ~ 24"
+    ],
+    "value": -1
+  },
+  "flwBackends": {
+    "comment": "Config options for Flywheel's built-in backends.",
+    "lightSmoothness": {
+      "comment": [
+        "How smooth Flywheel's shader-based lighting should be. May have a large performance impact.",
+        "Allowed Values: FLAT, TRI_LINEAR, SMOOTH, SMOOTH_INNER_FACE_CORRECTED"
+      ],
+      "value": "SMOOTH"
+    }
+  }
+}

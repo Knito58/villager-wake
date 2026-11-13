@@ -1,0 +1,18 @@
+filename = 'spyglass-information_1.0.1_fabric_26.3.jar'
+name = 'Spyglass Information'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Spyglass Information 1.0.1 - Fabric 26.3'
+
+[download]
+hash = '55c9849fa4502318ad606ad2cb8b14e2d2716a5e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9515056
+project-id = 1705999

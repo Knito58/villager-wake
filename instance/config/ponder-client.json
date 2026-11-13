@@ -1,0 +1,29 @@
+{
+  "comfyReading": {
+    "comment": "Slow down a ponder scene whenever there is text on screen.",
+    "value": false
+  },
+  "editingMode": {
+    "comment": "Show additional info in the ponder view and reload scene scripts more frequently.",
+    "value": false
+  },
+  "placementAssist": {
+    "comment": "Settings for the Placement Assist",
+    "indicatorType": {
+      "comment": [
+        "What indicator should be used when showing where the assisted placement ends up relative to your crosshair",
+        "Choose 'NONE' to disable the Indicator altogether",
+        "Allowed Values: TEXTURE, TRIANGLE, NONE"
+      ],
+      "value": "TEXTURE"
+    },
+    "indicatorScale": {
+      "comment": [
+        "Change the size of the Indicator by this multiplier",
+        "Default: 1.0",
+        "Range: 0.0 ~ 3.4028235E38"
+      ],
+      "value": 1.0
+    }
+  }
+}

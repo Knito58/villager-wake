@@ -1,0 +1,29 @@
+filename = 'villagertradingplus-fabric-mc26.3-1.1.0.jar'
+name = 'VillagersTradingPlus'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'VillagersTradingPlus 1.1.0 (Fabric) 26.3'
+
+[download]
+hash = '35f8441c6d32f0dfc7246eef82de8a73c0cee608'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9346754
+project-id = 1635301
+
+[[x-prismlauncher-dependencies]]
+addonId = '817272'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '809542'
+type = 'OPTIONAL'

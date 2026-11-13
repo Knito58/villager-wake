@@ -1,0 +1,21 @@
+filename = 'naturalist-2.0.7-fabric-26.3.jar'
+name = 'Naturalist'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Naturalist 2.0.7 (Fabric 26.3)'
+
+[download]
+hash = '1ede21ba19e6458c1f8c335b3425fdd07d055ccd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9280569
+project-id = 627986
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

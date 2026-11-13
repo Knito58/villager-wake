@@ -1,0 +1,25 @@
+filename = 'create-ore-excavation-fly-1.0.1-mc26.3.jar'
+name = 'Create: Ore Excavation Fly'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create: Ore Excavation Fly 1.0.1'
+
+[download]
+hash = 'c7e67c0b6bf6ad0e17dbac1f0081dbef174ce1cd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9531480
+project-id = 1786938
+
+[[x-prismlauncher-dependencies]]
+addonId = '1740795'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

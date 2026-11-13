@@ -1,0 +1,18 @@
+filename = 'immersive_aircraft-fabric-1.4.12+26.3-unofficial.jar'
+name = 'Immersive Aircraft (Unofficial Port)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'immersive_aircraft-fabric-1.4.12+26.3-unofficial.jar'
+
+[download]
+hash = '86b6f97e49a25971b6b3bff513fd53a03d38e4dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8902521
+project-id = 1680731

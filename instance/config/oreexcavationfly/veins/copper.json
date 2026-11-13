@@ -1,0 +1,6 @@
+{
+  "id": "copper",
+  "item": "minecraft:raw_copper",
+  "weight": 30,
+  "ticksAt32": 80
+}

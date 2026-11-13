@@ -1,0 +1,21 @@
+filename = 'iris-fabric-1.11.7+mc26.3.jar'
+name = 'Iris Shaders'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Iris 1.11.7 for Fabric 26.3'
+
+[download]
+hash = 'fa03640ba1e4ef2f7ae3619c6373a06e46d0ba2c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9015108
+project-id = 455508
+
+[[x-prismlauncher-dependencies]]
+addonId = '394468'
+type = 'REQUIRED'

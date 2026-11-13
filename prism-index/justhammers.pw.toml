@@ -1,0 +1,21 @@
+filename = 'just-hammers-fabric-26.3.0.1.jar'
+name = 'JustHammers'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Just Hammers Fabric 26.3'
+
+[download]
+hash = 'f8863a1e53181528015782719375cd19148ac10e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8991853
+project-id = 681606
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
