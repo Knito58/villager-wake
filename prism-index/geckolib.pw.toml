@@ -1,0 +1,18 @@
+filename = 'geckolib-fabric-26.3-5.5.7.jar'
+name = 'GeckoLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Fabric 5.5.7'
+
+[download]
+hash = '064ad66ea62bcf3fd0e89a719843b1a06c81925c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8945630
+project-id = 388172

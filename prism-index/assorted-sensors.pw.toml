@@ -1,0 +1,25 @@
+filename = 'assortedsensors-fabric-26.3-2.0.0.jar'
+name = 'Assorted Sensors'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Assorted Sensors 2.0.0 (Fabric)'
+
+[download]
+hash = '877f446bffbef57427466e4011b72efefa3ec852'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9310763
+project-id = 1728778
+
+[[x-prismlauncher-dependencies]]
+addonId = '851677'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

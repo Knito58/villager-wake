@@ -1,0 +1,21 @@
+filename = 'Terralith_26.3_v2.6.5+26.3.jar'
+name = 'Terralith'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v2.6.5+26.3 ~ Fabric Mod'
+
+[download]
+hash = '725bd469bc72d6e366ecbf4818e0438524ca5741'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8994208
+project-id = 513688
+
+[[x-prismlauncher-dependencies]]
+addonId = '936015'
+type = 'REQUIRED'

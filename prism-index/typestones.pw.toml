@@ -1,0 +1,29 @@
+filename = 'typestones-0.1.0.jar'
+name = 'Typestones'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Typestones 0.1.0'
+
+[download]
+hash = '8ee29db874d8a6b8d280c3b989e93e85924579b1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9548256
+project-id = 1762715
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '282001'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

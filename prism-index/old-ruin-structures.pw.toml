@@ -1,0 +1,25 @@
+filename = 'Old-Ruins-1.0.0-fabric-1.26.3.jar'
+name = 'Old Ruin Structures'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Old Ruins 1.0.0 for Fabric/Quilt 1.26.3 (26.3)'
+
+[download]
+hash = 'a748791462ed00ef948a75067791660fc86b8d30'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9082132
+project-id = 1413752
+
+[[x-prismlauncher-dependencies]]
+addonId = '1160598'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

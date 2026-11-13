@@ -1,0 +1,21 @@
+filename = 'villagerdeathmessages-26.3.0-4.0.jar'
+name = 'Villager Death Messages'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric/Forge/Neo] 26.3.0-4.0 | Villager Death Messages'
+
+[download]
+hash = 'ede271dae463d1ae413243d8e23eda4916396065'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9032284
+project-id = 341777
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'

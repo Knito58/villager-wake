@@ -1,0 +1,21 @@
+filename = 'rpack-2.1.0-26.3.jar'
+name = 'RPack-asamod'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'RPack 2.1.0 for 26.3'
+
+[download]
+hash = 'cd7ce80a281417a9e170ddd4049616f9afd9f5ae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9453699
+project-id = 1755858
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

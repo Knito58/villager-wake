@@ -1,0 +1,18 @@
+filename = 'hushmortem-0.1.0.jar'
+name = 'Hush Mortem'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2', '26.2', '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Hush Mortem v0.1.0'
+
+[download]
+hash = '4e4c882a250e9966408cdef7a29e0ec57bf4e1cd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9299668
+project-id = 1761542

@@ -1,0 +1,21 @@
+filename = 'assortedlib-fabric-26.3-5.0.2.jar'
+name = 'Assorted Lib'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Assorted Lib 5.0.2 (Fabric)'
+
+[download]
+hash = 'e151ebf51fe6d07a2a827bc9054aab7eccd92995'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9388913
+project-id = 851677
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

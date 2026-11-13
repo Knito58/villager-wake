@@ -1,0 +1,18 @@
+filename = 'lithostitched-2.0.6-fabric-26.3.jar'
+name = 'Lithostitched'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v2.0.6 ~ Fabric 26.3'
+
+[download]
+hash = 'c1b73f95795985bbede0b6d43513304448bc5603'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9154966
+project-id = 936015

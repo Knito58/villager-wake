@@ -1,0 +1,25 @@
+filename = 'smartvillagers-fabric-26.3-2.0.0.jar'
+name = 'Smart Villagers AI'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'smartvillagers-fabric-26.3-2.0.0.jar'
+
+[download]
+hash = '6c043da7b8dc2d6a27a45cca90b3d25b8a9acac8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9319340
+project-id = 1567718
+
+[[x-prismlauncher-dependencies]]
+addonId = '416089'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'elevatorid-fabric-26.3-1.16.6.jar'
+name = 'OpenBlocks Elevator'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[Fabric] ElevatorMod 26.3-1.16.6'
+
+[download]
+hash = '2a1b24ea84e950992a92a44b19e9edd40cc2a331'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9118239
+project-id = 250832
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

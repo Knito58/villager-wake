@@ -1,0 +1,25 @@
+filename = 'rijterralith-fabric-26.3-1.1.0.jar'
+name = 'Terralith: River In Jungle'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'rijterralith-fabric-26.3-1.1.0.jar'
+
+[download]
+hash = 'c4c630b8c329a3d8e6f2a2fea6985b31538521fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9350378
+project-id = 1640304
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '513688'
+type = 'REQUIRED'

@@ -1,0 +1,33 @@
+filename = 'the-lost-city-1.5.0-beta.jar'
+name = 'The Lost City'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'The Lost City 1.5.0 beta 1 for Fabric 26.3'
+
+[download]
+hash = '2351253bcf4ab43538c00b25ce3bca42f60bff9f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8913655
+project-id = 1159207
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1211516'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1160598'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1453106'
+type = 'OPTIONAL'

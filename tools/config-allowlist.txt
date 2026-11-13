@@ -1,0 +1,18 @@
+# Config files that belong in overrides/config (paths relative to the instance's config folder).
+# One glob per line, # starts a comment. Everything else is removed by tools/filter_configs.py.
+# Mods named in the instance notes: Starter Kit, Tiered Backpacks, Advanced Chimneys, Mineral Chance,
+# Uncraft Everything, Waystones, Thief, Configurable Despawn Timer, Your Items Are Safe.
+# Everlasting Abilities is not listed on purpose (replaced by TADA).
+serilum/starterkit.json
+serilum/starterkit/**
+tiered_backpacks/**
+adchimneys-common.toml
+serilum/mineralchance.json
+uncrafteverything-*
+waystones-*
+thief-*
+serilum/configurabledespawntimer.json
+serilum/youritemsaresafe.json
+# not wanted even though the mod is listed above (large, regenerated)
+!serilum/configurabledespawntimer/**
+!**/*.bak

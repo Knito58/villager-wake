@@ -1,21 +1,25 @@
-filename = 'easyautocycler-fabric-26.1.2-3.1.2.jar'
+filename = 'easyautocycler-fabric-26.3-3.1.2.jar'
 name = 'Easy Auto Cycler'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.1.2'
+x-prismlauncher-version-number = 'Easy Auto Cycler 3.1.2 26.3 Fabric'
 
 [download]
-hash = '7ab0cc5c098e9eec90367993868d800bae5dcb5af1a7d31ff5dea31116bd0bda41d4812bc27c75603089dfde768447d3b07da9439c57511dfa3d8d3f75c5ed73'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/L1k78Y2G/versions/DeCtpZD4/easyautocycler-fabric-26.1.2-3.1.2.jar'
+hash = '2d604a53637d96c2f379b005d5f0f6b3e54331c9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'L1k78Y2G'
-version = 'DeCtpZD4'
+[update.curseforge]
+file-id = 8980480
+project-id = 1242344
 
 [[x-prismlauncher-dependencies]]
-addonId = 'qpPoAL6m'
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '570431'
 type = 'REQUIRED'

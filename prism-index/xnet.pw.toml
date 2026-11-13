@@ -1,0 +1,37 @@
+filename = 'xnet-fabric-26.3-10.0.1-fabric.jar'
+name = 'XNet'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'XNet - 26.3-10.0.1-fabric'
+
+[download]
+hash = '52c8220213a55359a7172c36cbd21eac7d9be112'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9359607
+project-id = 260912
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '233105'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '326041'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '245211'
+type = 'OPTIONAL'

@@ -1,0 +1,21 @@
+filename = 'villagesandpillages-fabric-2.0.0+mc26.3.jar'
+name = 'Villages&Pillages'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Villages&Pillages 2.0.0'
+
+[download]
+hash = 'edc1cce78cde1bc2864b9b2c296a406216928c42'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9028188
+project-id = 915531
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

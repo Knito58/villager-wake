@@ -1,0 +1,18 @@
+filename = 'compass-block-finder-1.1.0.jar'
+name = 'Compass Block Finder'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'compass-block-finder-1.1.0.jar'
+
+[download]
+hash = '029da8d43453404d0ea2f2eaad17a664edbdb82d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9437619
+project-id = 1698496

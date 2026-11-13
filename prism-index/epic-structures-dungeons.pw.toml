@@ -1,0 +1,18 @@
+filename = 'Epic Dungeons v1.2.6 (26.3).jar'
+name = 'Epic Structures: Dungeons'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Epic Dungeons v1.2.6 (26.3).jar'
+
+[download]
+hash = 'e424902e5e645cf8719514971541d29affefe43b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8984101
+project-id = 1501318

@@ -1,0 +1,25 @@
+filename = 'lostcities-fabric-26.3-26.3-12.0.0-fabric.jar'
+name = 'The Lost Cities'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'LostCities - 26.3-12.0.0-fabric'
+
+[download]
+hash = '56cb5e29509eba80c8e361608bf2c9632029948b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9277225
+project-id = 269024
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'

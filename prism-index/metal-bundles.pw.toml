@@ -1,0 +1,29 @@
+filename = 'metalbundles-v26.3.4-mc26.3.x-fabric.jar'
+name = 'Metal Bundles'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v26.3.4-mc26.3.x+fabric'
+
+[download]
+hash = '17c060f7e44c39bbbf437c2e07dec8753985e722'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9524030
+project-id = 891325
+
+[[x-prismlauncher-dependencies]]
+addonId = '495476'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

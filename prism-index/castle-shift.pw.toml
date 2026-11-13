@@ -1,0 +1,21 @@
+filename = 'castleshift-0.3.0+26.3-fabric.jar'
+name = 'Castle Shift'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'castleshift 0.3.0'
+
+[download]
+hash = '98d57e9757850e8519bbe4735de10b77e6aea660'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8911673
+project-id = 1474573
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'OPTIONAL'

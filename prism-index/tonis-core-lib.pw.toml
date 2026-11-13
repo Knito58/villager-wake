@@ -1,0 +1,21 @@
+filename = 'tonicore-fabric-26.3-1.0.0.jar'
+name = "TONI's Core Lib"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "TONI's Core Lib 1.0.0 (Fabric 26.3)"
+
+[download]
+hash = '6e8e3470089c4b68c4635855674987d9eef59764'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9461406
+project-id = 1785763
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'colorful_redstone_lamps-1.0.8-mc26.3-fabric.jar'
+name = 'Colorful Redstone Lamps'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'colorful redstone lamps 1.0.8 for mc26.3-fabric'
+
+[download]
+hash = 'b8994c23c57128d26e65a5c21f66c6a746434397'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9421308
+project-id = 1340072
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

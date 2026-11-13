@@ -1,0 +1,33 @@
+filename = 'bobby-5.2.16+mc26.3.jar'
+name = 'Bobby'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Bobby 5.2.16 for Minecraft 26.3'
+
+[download]
+hash = '01be4d0fedbfb0213c103371d7ca841387191ff7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9077335
+project-id = 409301
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '383301'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '394468'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'

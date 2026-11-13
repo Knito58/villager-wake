@@ -1,0 +1,21 @@
+filename = 'berezka-api-1.2.9.5-beta.jar'
+name = "Berezka's library"
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Berezka API 1.2.9.5 beta 1 for Fabric 26.3'
+
+[download]
+hash = '35b3c5c8e0c28f552edf14b4f4997102451481ae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8913643
+project-id = 1160598
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'forgeendertech-26.3.0.1-fabric-build.0125.jar'
+name = 'ForgeEndertech'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'forgeendertech-26.3.0.1-fabric-build.0125.jar'
+
+[download]
+hash = '0cea2e53bb22243e315e642d6c76f2c4170a6db1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9119047
+project-id = 244844

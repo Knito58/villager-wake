@@ -1,0 +1,18 @@
+filename = 'structure-finder-26.3-universal-1.5.1.jar'
+name = 'Structure Finder'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'structure-finder-26.3-universal-1.5.1.jar'
+
+[download]
+hash = '26353264c0a06d2d68b2aa3c65d503880a7c4bfb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9431800
+project-id = 1617048

@@ -1,0 +1,18 @@
+filename = 'giant_plane_wreck-1.0.0 Fabric 26.3.jar'
+name = 'Giant Plane Wreck'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'giant_plane_wreck-1.0.0 Fabric 26.3.jar'
+
+[download]
+hash = '27288abaec845739fcf6e58c77e67380b23d4526'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9043130
+project-id = 1336925

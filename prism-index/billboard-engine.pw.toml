@@ -1,0 +1,29 @@
+filename = 'billboard-2.0.1.jar'
+name = 'Billboard Engine'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Billboard Engine 2.0.1'
+
+[download]
+hash = '0cedc0dfaf92a0fc8f18e78d454030d8a764cb84'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9428384
+project-id = 1758329
+
+[[x-prismlauncher-dependencies]]
+addonId = '1769807'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '282001'
+type = 'OPTIONAL'

@@ -1,0 +1,29 @@
+filename = 'laserio-fabric-26.3-1.10.2.6.jar'
+name = 'LaserIO (Fabric)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'laserio-fabric-26.3-1.10.2.6.jar'
+
+[download]
+hash = '7eaa17e602e93d088d39c562ec28bedcf22d53f5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9340083
+project-id = 1718868
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

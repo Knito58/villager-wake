@@ -1,0 +1,21 @@
+filename = 'ConstructionWandsRevived-26.3-4.0.14-Fabric.jar'
+name = 'Construction Wands Revived'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ConstructionWandsRevived-26.3-4.0.14-Fabric'
+
+[download]
+hash = '4d5ab45ef16a19394d9dc54ca4a03c4e06abc3db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9528389
+project-id = 1395288
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

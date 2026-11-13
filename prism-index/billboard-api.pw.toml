@@ -1,0 +1,25 @@
+filename = 'billboard-api-0.2.0.jar'
+name = 'Billboard API'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Billboard API 0.2.0'
+
+[download]
+hash = '404d3d1c8a5a29e6571db08193167eda9cf02b14'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9367016
+project-id = 1769807
+
+[[x-prismlauncher-dependencies]]
+addonId = '282001'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

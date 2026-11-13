@@ -1,0 +1,18 @@
+filename = 'ToolsOfObsidian-fabric-26.3-1.10.0.jar'
+name = 'Tools and armor of Obsidian'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ToolsOfObsidian-fabric-26.3-1.10.0.jar'
+
+[download]
+hash = '6b550e6934713a7ed4193deb85125dac64094eb1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9154982
+project-id = 527894
