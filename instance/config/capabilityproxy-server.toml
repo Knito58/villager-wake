@@ -1,3 +1,0 @@
-	[block.ranged_capability_proxy]
-		#The maximum range in number of blocks. Warning: high values can lag and/or crash your game.
-		range = 16

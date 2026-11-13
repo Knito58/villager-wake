@@ -1,3 +1,0 @@
-	[machine.capability_proxy]
-		#If the item storage capability should be exposed for player inventories.
-		registerPlayerItemStorage = true

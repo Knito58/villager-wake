@@ -1,6 +1,0 @@
-{
-  "id": "redstone",
-  "item": "minecraft:redstone",
-  "weight": 14,
-  "ticksAt32": 100
-}

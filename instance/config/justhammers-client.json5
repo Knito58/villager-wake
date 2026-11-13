@@ -1,4 +1,0 @@
-{
-  // Set to true to disable the durability tooltip on hammers
-  disabledDurabilityTooltip: false,
-}

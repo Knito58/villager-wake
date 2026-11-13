@@ -1,8 +1,0 @@
-[keys]
-	#Key code of OPTKEY (Default: Left Control). Look up key codes under https://www.glfw.org/docs/3.3/group__keys.html (SDL scancodes from 26.3 on, Default: 224)
-	# Range: 0 ~ 511
-	OptKey = 224
-	#Press SNEAK+OPTKEY instead of SNEAK for changing wand mode/direction lock
-	ShiftOpt = false
-	#Press SNEAK+OPTKEY instead of SNEAK for opening wand GUI
-	ShiftOptGUI = true

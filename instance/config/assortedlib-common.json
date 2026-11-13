@@ -1,8 +1,0 @@
-{
-  "migration": {
-    "carryOverMovedIds": true
-  },
-  "creative": {
-    "hideUncraftableItems": false
-  }
-}
