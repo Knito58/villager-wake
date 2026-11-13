@@ -22,3 +22,11 @@ The workflow **Make CurseForge pack** (Actions tab, run manually) builds `pack/`
 (a packwiz pack) from the CurseForge ids in `prism-index/` and
 `instance/shaderpacks/`, adds `overrides/`, and writes the CurseForge modpack
 zip to `dist/` and a result table to `reports/make-pack.md`.
+
+## Updating the configs
+
+After every instance update run
+`python3 tools/filter_configs.py "<instance>/minecraft/config"`.
+It rebuilds `overrides/config/` from the allowlist in
+`tools/config-allowlist.txt` and removes every other config file. Add a mod
+to the allowlist only when its settings were changed on purpose.
