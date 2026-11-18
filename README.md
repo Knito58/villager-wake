@@ -10,6 +10,9 @@ A Fabric modpack for Minecraft 26.3 (Fabric Loader 0.20.1, Java 25).
   (without local paths and play statistics), `mmc-pack.json`, `options.txt`
   and the shader pack list and options (`instance/shaderpacks/`). Jars,
   worlds, logs, caches and mod configs are not stored here.
+- `overrides/jm-presets/` is shipped into the pack as `minecraft/jm-presets/`: JourneyMap
+  group presets, the `jm-copy-groups.py` helper and the author's keybinds
+  (`keybinds.options.txt`). See the README.txt in that folder.
 - `overrides/config/` is the only place for mod configs. It holds only the
   settings that were changed on purpose (Starter Kit,
   Tiered Backpacks, Advanced Chimneys, Mineral Chance, Uncraft Everything,

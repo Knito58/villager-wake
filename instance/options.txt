@@ -178,12 +178,8 @@ key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.rotate_menu:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
-key_key.assortedlib.switch_modes:key.keyboard.z
+key_key.assortedlib.switch_modes:key.keyboard.y
 key_key.beginnersdelight.open_village_config:key.keyboard.unknown
-key_key.buildinggadgets2.settings_menu:key.keyboard.y
-key_key.buildinggadgets2.undo:key.keyboard.backspace
-key_key.buildinggadgets2.anchor:key.keyboard.unknown
-key_key.buildinggadgets2.range:key.keyboard.unknown
 key_key.cameramonitoring.next_camera:key.keyboard.right
 key_key.cameramonitoring.previous_camera:key.keyboard.left
 key_key.cameramonitoring.toggle_overlay:key.keyboard.period
@@ -198,9 +194,6 @@ key_key.clientsort.op.matchTransfer:key.keyboard.unknown
 key_key.clientsort.op.transfer:key.keyboard.unknown
 key_key.coffers.open_personal:key.keyboard.t
 key_key.commandkeys.main.edit:key.keyboard.k
-key_key.constructionwand.void_sack_toggle:key.keyboard.m
-key_key.constructionwand.wand_undo:key.keyboard.backspace
-key_key.constructionwand.exchange_select:key.keyboard.keypad.7
 key_key.easyautocycler.toggle_auto_trade:key.keyboard.r
 key_key.easyautocycler.open_config:key.keyboard.c
 key_key.gravelminer.toggle:key.keyboard.unknown
