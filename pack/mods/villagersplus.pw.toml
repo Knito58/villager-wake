@@ -1,0 +1,13 @@
+name = "VillagersPlus (Fabric/Neoforge)"
+filename = "villagersplus-fabric-mc26.3-4.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec2410fe6ae178db22bbe982a934ab3e493c2bc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9346769
+project-id = 809542

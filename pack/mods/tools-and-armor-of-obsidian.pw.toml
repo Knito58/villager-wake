@@ -1,0 +1,13 @@
+name = "Tools and armor of Obsidian"
+filename = "ToolsOfObsidian-fabric-26.3-1.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b550e6934713a7ed4193deb85125dac64094eb1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9154982
+project-id = 527894

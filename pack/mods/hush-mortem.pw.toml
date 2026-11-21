@@ -1,0 +1,13 @@
+name = "Hush Mortem"
+filename = "hushmortem-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e4c882a250e9966408cdef7a29e0ec57bf4e1cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9299668
+project-id = 1761542

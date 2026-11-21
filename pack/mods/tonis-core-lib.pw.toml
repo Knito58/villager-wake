@@ -1,0 +1,13 @@
+name = "TONI's Core Lib"
+filename = "tonicore-fabric-26.3-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e8e3470089c4b68c4635855674987d9eef59764"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9461406
+project-id = 1785763

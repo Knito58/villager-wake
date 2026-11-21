@@ -1,0 +1,13 @@
+name = "Smart Villagers AI"
+filename = "smartvillagers-fabric-26.3-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c043da7b8dc2d6a27a45cca90b3d25b8a9acac8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9319340
+project-id = 1567718

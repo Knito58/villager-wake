@@ -1,0 +1,13 @@
+name = "Old Ruin Structures"
+filename = "Old-Ruins-1.0.0-fabric-1.26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a748791462ed00ef948a75067791660fc86b8d30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9082132
+project-id = 1413752

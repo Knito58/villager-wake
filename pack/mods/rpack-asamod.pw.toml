@@ -1,0 +1,13 @@
+name = "RPack-asamod"
+filename = "rpack-2.1.0-26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd7ce80a281417a9e170ddd4049616f9afd9f5ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9453699
+project-id = 1755858

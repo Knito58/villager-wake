@@ -1,0 +1,13 @@
+name = "Concrete Mixer Lite"
+filename = "concretemixer-fabric-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65c9837554bf9c0ea33afc17ff7c06f246156035"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8941419
+project-id = 1549143

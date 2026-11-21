@@ -1,0 +1,13 @@
+name = "XNet"
+filename = "xnet-fabric-26.3-10.0.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52c8220213a55359a7172c36cbd21eac7d9be112"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9359607
+project-id = 260912

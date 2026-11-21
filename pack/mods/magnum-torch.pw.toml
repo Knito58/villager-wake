@@ -1,0 +1,13 @@
+name = "Magnum Torch"
+filename = "magnumtorch-v26.3.0-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6be4bf5e299990b54960ca34d9f126a4556a58e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8983502
+project-id = 593981

@@ -1,0 +1,13 @@
+name = "Waystones"
+filename = "waystones-fabric-26.3-26.3.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "606b37a18939e59bf0a3fbcb48db5d27ebd7f7ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9626195
+project-id = 245755

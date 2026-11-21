@@ -1,0 +1,13 @@
+name = "Easy Auto Cycler"
+filename = "easyautocycler-fabric-26.3-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d604a53637d96c2f379b005d5f0f6b3e54331c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8980480
+project-id = 1242344

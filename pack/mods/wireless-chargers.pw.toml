@@ -1,0 +1,13 @@
+name = "Wireless Chargers"
+filename = "wirelesschargers-1.0.10-fabric-mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "164108ee76ed2c424430a71529de96a6db140ccc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8888127
+project-id = 510656

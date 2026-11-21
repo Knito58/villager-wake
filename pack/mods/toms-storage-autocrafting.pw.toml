@@ -1,0 +1,13 @@
+name = "Tom's Storage Autocrafting"
+filename = "tsautocraft-fabric-0.7.0-26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18a5ed8a5e53193743f036c2e5b1ea80193675d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9577156
+project-id = 1778777

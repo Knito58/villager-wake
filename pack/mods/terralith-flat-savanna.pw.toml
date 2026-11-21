@@ -1,0 +1,13 @@
+name = "Terralith: Flat Savanna"
+filename = "fsterralith-fabric-26.3-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2684a29b2c08dd37fafa65c2138c1b7e4ed5e028"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9427326
+project-id = 1646913

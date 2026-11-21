@@ -1,0 +1,13 @@
+name = "Tax Free Levels"
+filename = "TaxFreeLevels-1.5.5-fabric-26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e08c1db60005d976ce0f4bba9c8a2198032a0c18"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9631280
+project-id = 462128

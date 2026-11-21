@@ -1,0 +1,13 @@
+name = "Immersive Aircraft (Unofficial Port)"
+filename = "immersive_aircraft-fabric-1.4.12+26.3-unofficial.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86b6f97e49a25971b6b3bff513fd53a03d38e4dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8902521
+project-id = 1680731

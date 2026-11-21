@@ -1,0 +1,13 @@
+name = "Villager Guards (Fabric/Forge/NeoForge/Quilt)"
+filename = "villager-guards-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "324f9e5cfe5879c8eeb40067e243505584693242"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9085307
+project-id = 1263163

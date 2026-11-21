@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-fabric-26.3-6.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fb9d3039e0acca2e1d5f5ced71ab5aaac22fdf8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9049820
+project-id = 32274

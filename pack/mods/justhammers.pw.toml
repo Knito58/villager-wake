@@ -1,0 +1,13 @@
+name = "JustHammers"
+filename = "just-hammers-fabric-26.3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8863a1e53181528015782719375cd19148ac10e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8991853
+project-id = 681606

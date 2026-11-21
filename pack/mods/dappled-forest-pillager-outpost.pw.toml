@@ -1,0 +1,13 @@
+name = "Dappled Forest Pillager Outpost"
+filename = "dappled_forest_pillager_outpost-1.0.0 Fabric 26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f71b6c97aefb8ad57c834424576ba09940cfad8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9023863
+project-id = 1720239

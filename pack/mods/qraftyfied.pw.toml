@@ -1,0 +1,13 @@
+name = "qraftyfied"
+filename = "qraftyfied-13.0.0-26.3 (1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83147fa8dddbba7a5076f63c8681f4d0d8505ecc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8916149
+project-id = 1005868

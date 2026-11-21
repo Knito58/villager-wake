@@ -1,0 +1,13 @@
+name = "Puzzles Lib"
+filename = "puzzleslib-v26.3.18-mc26.3.x-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3819387e2da9c584b5e34df6c31d903b3deb21ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9575803
+project-id = 495476

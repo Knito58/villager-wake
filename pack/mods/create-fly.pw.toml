@@ -1,0 +1,13 @@
+name = "Create Fly"
+filename = "create-fly-26.3-6.0.9-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e16ce9c274626fd20c90031564daf09156ecf699"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9486174
+project-id = 1346281

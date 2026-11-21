@@ -1,0 +1,13 @@
+name = "Vertical Cut"
+filename = "vertical-cut-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "175fa680da8e4342738bbe34313c92d4f770d5bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9538021
+project-id = 1757767

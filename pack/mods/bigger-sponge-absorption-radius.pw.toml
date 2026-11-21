@@ -1,0 +1,13 @@
+name = "Bigger Sponge Absorption Radius"
+filename = "biggerspongeabsorptionradius-26.3.0-3.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bbd0ca494f808ad6fef41ed7fda5514b56b581b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9034887
+project-id = 391896

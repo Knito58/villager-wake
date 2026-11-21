@@ -1,0 +1,13 @@
+name = "Hang Glider"
+filename = "hangglider-v26.3.0-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88663863a39dc2c9fbee4514bdcf3a7ed437dfe8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8982630
+project-id = 852668

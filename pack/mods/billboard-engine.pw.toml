@@ -1,0 +1,13 @@
+name = "Billboard Engine"
+filename = "billboard-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cedc0dfaf92a0fc8f18e78d454030d8a764cb84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9428384
+project-id = 1758329

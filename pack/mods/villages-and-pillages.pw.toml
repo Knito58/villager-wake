@@ -1,0 +1,13 @@
+name = "Villages&Pillages"
+filename = "villagesandpillages-fabric-2.0.0+mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "edc1cce78cde1bc2864b9b2c296a406216928c42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9028188
+project-id = 915531

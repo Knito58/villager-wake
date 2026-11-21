@@ -1,0 +1,13 @@
+name = "Create Fly: Connected (Unofficial Port)"
+filename = "create_connected-1.3.3.3-fly-mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac886c6b18fcdda8bf20ef818a227a58a4d04686"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9534164
+project-id = 1656263

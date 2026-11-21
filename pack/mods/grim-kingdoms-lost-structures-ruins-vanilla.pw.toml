@@ -1,0 +1,13 @@
+name = "Grim kingdoms: Lost structures & ruins Vanilla Edition"
+filename = "Grim kingdoms Vanilla (1.21+26+).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28e1ab04d330ac1e6146c31516a39c034dc4babe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8520589
+project-id = 1508633

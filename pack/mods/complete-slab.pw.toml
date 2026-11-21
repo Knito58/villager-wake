@@ -1,0 +1,13 @@
+name = "Complete Slab"
+filename = "complete-slab-1.0.1-fabric-mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad960dec6fa49d952fd3229a74a29cbf2fc9c5b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9682616
+project-id = 1744588

@@ -1,0 +1,13 @@
+name = "Colorful Redstone Lamps"
+filename = "colorful_redstone_lamps-1.0.8-mc26.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8994c23c57128d26e65a5c21f66c6a746434397"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9421308
+project-id = 1340072

@@ -1,0 +1,13 @@
+name = "TADA - Trimmed Abilities Dyeable Armor"
+filename = "tada-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81767a90fe91c36dea8c90102a14f6895708afce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9510422
+project-id = 1781660

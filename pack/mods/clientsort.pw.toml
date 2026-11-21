@@ -1,0 +1,13 @@
+name = "Client Sort"
+filename = "clientsort-fabric-3.104.1+26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67e387be65948474f0dced76692af461ea98f829"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8978806
+project-id = 1049891

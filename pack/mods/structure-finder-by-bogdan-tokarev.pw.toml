@@ -1,0 +1,13 @@
+name = "Structure Finder"
+filename = "structure-finder-26.3-universal-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26353264c0a06d2d68b2aa3c65d503880a7c4bfb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9431800
+project-id = 1617048

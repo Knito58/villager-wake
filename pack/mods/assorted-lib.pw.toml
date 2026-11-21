@@ -1,0 +1,13 @@
+name = "Assorted Lib"
+filename = "assortedlib-fabric-26.3-5.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c668074e4220caa5e22b0c9b2a364cef305731da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9702147
+project-id = 851677

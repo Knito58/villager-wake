@@ -1,0 +1,13 @@
+name = "Magnet Hoppers"
+filename = "magnethopper-fabric-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a988bf61db2be54a737d59843805d26f3f757847"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8940989
+project-id = 1546015

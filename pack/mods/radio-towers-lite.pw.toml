@@ -1,0 +1,13 @@
+name = "Radio Towers Lite"
+filename = "radio_towers_and_airdrops-1.0.0-fabric-26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "665232cfc7a395047a4fb9d078168bd1e2484ead"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9243817
+project-id = 1523581

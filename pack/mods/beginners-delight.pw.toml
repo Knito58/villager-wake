@@ -1,0 +1,13 @@
+name = "Beginner's Delight"
+filename = "beginnersdelight-0.8.1+26.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b73b33b6df87740199b6b591b57df8139ba07a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8917877
+project-id = 1449883

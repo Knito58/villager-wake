@@ -1,0 +1,13 @@
+name = "Wakes"
+filename = "wakes-0.7.3+26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "749d7198b0d97e35a563c412df5a4108647187a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9221020
+project-id = 884267

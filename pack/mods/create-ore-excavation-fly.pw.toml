@@ -1,0 +1,13 @@
+name = "Create: Ore Excavation Fly"
+filename = "create-ore-excavation-fly-1.0.1-mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7e67c0b6bf6ad0e17dbac1f0081dbef174ce1cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9531480
+project-id = 1786938

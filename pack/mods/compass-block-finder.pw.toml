@@ -1,0 +1,13 @@
+name = "Compass Block Finder"
+filename = "compass-block-finder-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "029da8d43453404d0ea2f2eaad17a664edbdb82d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9437619
+project-id = 1698496

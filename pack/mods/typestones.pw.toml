@@ -1,0 +1,13 @@
+name = "Typestones"
+filename = "typestones-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ee29db874d8a6b8d280c3b989e93e85924579b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9548256
+project-id = 1762715

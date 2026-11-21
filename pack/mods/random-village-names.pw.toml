@@ -1,0 +1,13 @@
+name = "Random Village Names"
+filename = "randomvillagenames-26.3.0-5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a012f5057a1d1a79a39beb350143685cb1f51825"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9276326
+project-id = 452299

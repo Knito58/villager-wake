@@ -1,0 +1,13 @@
+name = "Uncraft Everything"
+filename = "uncrafteverything-fabric-26.3-26.3.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2300a2edfa7a5d3c5508e65aaffb1e7abdb4ef2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9434704
+project-id = 1244428

@@ -1,0 +1,13 @@
+name = "Mineral Chance"
+filename = "mineralchance-26.3.0-5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01d4ee3e9be06ea23477ed3accef8e208d63c1ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9409103
+project-id = 412956

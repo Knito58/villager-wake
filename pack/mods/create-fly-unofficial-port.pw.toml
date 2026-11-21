@@ -1,0 +1,13 @@
+name = "Create Fly: Unofficial port"
+filename = "create-fly-26.3-6.0.9-unofficial.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27cd89f2d574142a713496aa6f1a300e110ac78e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9321329
+project-id = 1740795

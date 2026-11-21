@@ -1,0 +1,13 @@
+name = "Clarity"
+filename = "Clarity 1.1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3740596f14de5a2e37316eff24c000f5c15730a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7824966
+project-id = 1389097

@@ -1,0 +1,13 @@
+name = "Coffers: Shared Bank"
+filename = "coffers-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afc8747890a11bf413724585e4429743090d3259"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9111272
+project-id = 1725947

@@ -1,0 +1,13 @@
+name = "Abandoned Tunnels"
+filename = "abandoned-tunnels-1.0.0-v26.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d7a5485c384c525fab33d667f6089d539dd7bea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9311803
+project-id = 1733257

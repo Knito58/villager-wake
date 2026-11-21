@@ -1,0 +1,13 @@
+name = "Metal Bundles"
+filename = "metalbundles-v26.3.4-mc26.3.x-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17c060f7e44c39bbbf437c2e07dec8753985e722"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9524030
+project-id = 891325

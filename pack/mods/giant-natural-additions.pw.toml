@@ -1,0 +1,13 @@
+name = "Giant Natural Additions"
+filename = "giant_natural_additions-1.0.0 Fabric 26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "909fb21834c0fea9e7ae6cd01c8a99356047c80d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8916893
+project-id = 1309988

@@ -1,0 +1,13 @@
+name = "Create: Nerfad – Not Enough Recipes For A Dummy"
+filename = "create_nerfad-1-2-13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9413fbdf8023cbabcce8235c6663aa050153ed2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9474510
+project-id = 1757335

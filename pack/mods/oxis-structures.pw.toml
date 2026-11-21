@@ -1,0 +1,13 @@
+name = "Oxi's Structures"
+filename = "Oxi-s-Structures-1.0.5.26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53c77ac0b883d100da64a28c7e7000430ffc78c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9452886
+project-id = 1771963

@@ -1,0 +1,13 @@
+name = "OpenBlocks Elevator"
+filename = "elevatorid-fabric-26.3-1.16.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a1b24ea84e950992a92a44b19e9edd40cc2a331"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9118239
+project-id = 250832

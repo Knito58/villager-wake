@@ -1,0 +1,13 @@
+name = "Spyglass Information"
+filename = "spyglass-information_1.0.1_fabric_26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55c9849fa4502318ad606ad2cb8b14e2d2716a5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9515056
+project-id = 1705999

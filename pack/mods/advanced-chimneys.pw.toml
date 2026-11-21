@@ -1,0 +1,13 @@
+name = "Advanced Chimneys"
+filename = "adchimneys-26.3.0.2-fabric-build.0152.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0138898e733a7c2db4abf8e7ccbfd86ad5c9ca60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9382884
+project-id = 244830
