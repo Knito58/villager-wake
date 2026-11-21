@@ -1,19 +1,19 @@
-filename = 'TaxFreeLevels-1.5.4-fabric-26.1.jar'
+filename = 'TaxFreeLevels-1.5.5-fabric-26.1.jar'
 name = 'Tax Free Levels'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2', '26.2', '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.5.4 [Fabric 26.1 - 26.3]'
+x-prismlauncher-version-number = '1.5.5 [Fabric 26.1 - 26.3]'
 
 [download]
-hash = 'efc12f2bf580b2e82872787ea273423473b2c747'
+hash = 'e08c1db60005d976ce0f4bba9c8a2198032a0c18'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8232461
+file-id = 9631280
 project-id = 462128
 
 [[x-prismlauncher-dependencies]]

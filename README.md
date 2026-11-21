@@ -15,9 +15,16 @@ A Fabric modpack for Minecraft 26.3 (Fabric Loader 0.20.1, Java 25).
   (`keybinds.options.txt`). See the README.txt in that folder.
 - `overrides/config/` is the only place for mod configs. It holds only the
   settings that were changed on purpose (Starter Kit,
-  Tiered Backpacks, Advanced Chimneys, Mineral Chance, Uncraft Everything,
+  Advanced Chimneys, Mineral Chance, Uncraft Everything,
   Waystones, Thief, Configurable Despawn Timer, Your Items Are Safe). They
   are copied into the pack.
+
+## Billboard API (manual download)
+
+Billboard API is not approved on CurseForge, so it is not in `prism-index/`
+and not in the CurseForge pack. Billboard Engine is included and lists it only
+as an optional dependency. Anyone who wants Billboard API has to download it
+manually from its GitHub page and put the jar into the `mods` folder.
 
 ## Building the pack
 

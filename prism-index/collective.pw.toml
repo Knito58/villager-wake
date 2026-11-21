@@ -1,18 +1,18 @@
-filename = 'collective-26.3.0-8.86.jar'
+filename = 'collective-26.3.0-8.87.jar'
 name = 'Collective'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[Fabric/Forge/Neo] 26.3.0-8.86 | Collective'
+x-prismlauncher-version-number = '[Fabric/Forge/Neo] 26.3.0-8.87 | Collective'
 
 [download]
-hash = '1329f158487009c5c348b619888c1aa0c556834d'
+hash = '9f67f1e2e3a13dcdeb62ea1f4935528124766a19'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9548447
+file-id = 9628287
 project-id = 342584

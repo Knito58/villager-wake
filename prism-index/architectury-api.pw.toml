@@ -1,19 +1,19 @@
-filename = 'architectury-fabric-22.0.5.jar'
-name = 'Architectury API'
+filename = 'architectury-fabric-22.0.6.jar'
+name = 'Architectury'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[Fabric 26.3] v22.0.5'
+x-prismlauncher-version-number = '[Fabric 26.3] v22.0.6'
 
 [download]
-hash = '8c5f566e32bd47fbb80be4932b9be1cfa97c4e3a'
+hash = '045bb291a25967e82770308d77fd9dbbdefd54d6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9111314
+file-id = 9651654
 project-id = 419699
 
 [[x-prismlauncher-dependencies]]

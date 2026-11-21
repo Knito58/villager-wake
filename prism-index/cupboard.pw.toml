@@ -1,18 +1,18 @@
-filename = 'CoreLib-1.3.0.jar'
-name = "Areed's CoreLib"
+filename = 'cupboard-fabric-26.3-4.2.jar'
+name = 'Cupboard'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'CoreLib-1.3.0.jar'
+x-prismlauncher-version-number = 'cupboard-fabric-26.3-4.2.jar'
 
 [download]
-hash = '273239153d0847e16a704389d83e4d5402a8204d'
+hash = 'a3d53b259c44513fd27d1a1ccc998824c574c0c2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8895571
-project-id = 1583686
+file-id = 8890593
+project-id = 326652

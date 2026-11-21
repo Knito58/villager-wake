@@ -1,28 +1,44 @@
-filename = 'travelersbackpack-fabric-26.3-11.4.4.jar'
+filename = 'travelersbackpack-fabric-26.3-11.4.6.jar'
 name = "Traveler's Backpack"
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'travelersbackpack-fabric-26.3-11.4.4'
+x-prismlauncher-version-number = 'travelersbackpack-fabric-26.3-11.4.6'
 
 [download]
-hash = '3a7560f458b7ead2bca07b6d61761a738e992bde'
+hash = '02ad5297d333cf7fd8b773392e46a3568c4c2514'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9578406
+file-id = 9652723
 project-id = 541171
 
 [[x-prismlauncher-dependencies]]
-addonId = '276951'
+addonId = '341284'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '233071'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '938917'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '393442'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '235577'
@@ -33,31 +49,7 @@ addonId = '497175'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '547434'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
 addonId = '238222'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '938917'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '306612'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '580555'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '393442'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '544912'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -65,9 +57,17 @@ addonId = '388800'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
+addonId = '276951'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
 addonId = '310111'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '341284'
+addonId = '544912'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
 type = 'OPTIONAL'
