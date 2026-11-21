@@ -1,27 +1,23 @@
-filename = 'littlejoys-fabric-26.3-26.3.0.2.jar'
-name = 'Little Joys'
+filename = 'tsautocraft-fabric-0.7.0-26.3.jar'
+name = "Tom's Storage Autocrafting"
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'littlejoys-fabric-26.3-26.3.0.2.jar'
+x-prismlauncher-version-number = 'tsautocraft-fabric-0.7.0+26.3.jar'
 
 [download]
-hash = '40f9aae9d367cd75720475cb6dddf820315cbdd2'
+hash = '18a5ed8a5e53193743f036c2e5b1ea80193675d7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9406289
-project-id = 1235950
+file-id = 9577156
+project-id = 1778777
 
 [[x-prismlauncher-dependencies]]
-addonId = '1475746'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '531761'
+addonId = '396826'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]

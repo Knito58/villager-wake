@@ -1,18 +1,18 @@
-filename = 'lithium-fabric-0.26.3-mc26.3.jar'
+filename = 'lithium-fabric-0.26.4-mc26.3.jar'
 name = 'Lithium'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Lithium mc26.3.x-0.26.3 for Fabric'
+x-prismlauncher-version-number = 'Lithium mc26.3.x-0.26.4 for Fabric'
 
 [download]
-hash = '2d3afe9d43bb2549e23479d8d93e644ff366bebf'
+hash = 'b87fcae581c1ff1b3aac8314004c9d7616f90827'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9357338
+file-id = 9702957
 project-id = 360438

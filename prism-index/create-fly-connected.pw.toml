@@ -1,0 +1,25 @@
+filename = 'create_connected-1.3.3.3-fly-mc26.3.jar'
+name = 'Create Fly: Connected (Unofficial Port)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'create_connected-1.3.3.3+fly-mc26.3.jar'
+
+[download]
+hash = 'ac886c6b18fcdda8bf20ef818a227a58a4d04686'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9534164
+project-id = 1656263
+
+[[x-prismlauncher-dependencies]]
+addonId = '1346281'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
