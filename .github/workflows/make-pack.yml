@@ -20,7 +20,7 @@ jobs:
         run: go install github.com/packwiz/packwiz@latest
 
       - name: make pack
-        run: tools/make_pack.sh
+        run: bash tools/make_pack.sh
 
       - name: commit pack
         run: |
