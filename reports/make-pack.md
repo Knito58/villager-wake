@@ -194,3 +194,4 @@
 | Complementary_Shaders_-_Reimagined | 627557 | 8884654 | ok |
 | Complementary_Shaders_-_Unbound | 385587 | 8884656 | ok |
 | Noble_Shaders | 759541 | 9003006 | ok |
+| Create_Fly:_Unofficial_port | 1740795 | | REMOVED: added as dependency, not in the Prism instance |

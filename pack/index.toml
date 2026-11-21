@@ -314,11 +314,6 @@ hash = "4889f8b30ffb8ba8bf75d5f926d992a5b60b88802d9ff695268cf992c4a56cfb"
 metafile = true
 
 [[files]]
-file = "mods/create-fly-unofficial-port.pw.toml"
-hash = "82ebadc241245fcccc57f02a6acf1e02cdbc006a0a47434e5fcc6187b029fe01"
-metafile = true
-
-[[files]]
 file = "mods/create-fly.pw.toml"
 hash = "38dcf6d736206e0f1289dd7b37befdf2727e7ff9494470d8342744070582f304"
 metafile = true
