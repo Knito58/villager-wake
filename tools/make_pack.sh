@@ -5,7 +5,7 @@
 # Every entry in the Prism export carries its CurseForge project and file id, so no jars are downloaded.
 set -u
 ROOT=$(pwd)
-VERSION=1.0.1
+VERSION=1.1.0
 MC=26.3
 FABRIC=0.20.1
 rm -rf pack && mkdir -p pack reports dist
