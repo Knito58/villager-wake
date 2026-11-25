@@ -1,13 +1,13 @@
 name = "The Lost Cities"
-filename = "lostcities-fabric-26.3-26.3-12.0.0-fabric.jar"
+filename = "lostcities-fabric-26.3-26.3-12.0.2-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "56cb5e29509eba80c8e361608bf2c9632029948b"
+hash = "29b58ceba77a2420cac89420385715637d91d682"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9277225
+file-id = 9730734
 project-id = 269024

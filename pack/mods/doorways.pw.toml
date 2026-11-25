@@ -1,13 +1,13 @@
 name = "Doorways"
-filename = "doorways-fabric-26.3-0.6.0.jar"
+filename = "doorways-fabric-26.3-1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3d3e2c2e18bab57f988059c7c8135542b29552b2"
+hash = "7b40e67684d8cee734b1b59f1446c4b9cd2ed897"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9003927
+file-id = 9760371
 project-id = 1674727

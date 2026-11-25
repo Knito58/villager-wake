@@ -1,13 +1,13 @@
 name = "McJtyLib"
-filename = "mcjtylib-fabric-26.3-11.0.5-fabric.jar"
+filename = "mcjtylib-fabric-26.3-11.0.6-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2a5b97f6956a4b50398f18eb3dacc37312667b07"
+hash = "1350449aa715a03c39b29a5200e470d22696c709"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9556875
+file-id = 9752952
 project-id = 233105

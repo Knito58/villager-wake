@@ -1,13 +1,13 @@
 name = "Create Fly: Copycats+  Port"
-filename = "Copycats-CreateFly-26.3-v1.18-beta-updated.jar"
+filename = "Copycats-CreateFly-26.3-v1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e297b4f0a5d7d57c4f0b4c3b337e829ef2ad3392"
+hash = "02795728ac24528eccc5a3ba8eb45f26db5564bc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9605184
+file-id = 9803553
 project-id = 1569572

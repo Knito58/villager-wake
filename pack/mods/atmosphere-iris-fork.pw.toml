@@ -1,0 +1,13 @@
+name = "Atmosphere Iris Fork"
+filename = "iris-fabric-1.11.6-mc26.3-shaderzones.46.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2988ef742ba417288e63fe64ad63c27febdf649"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9657249
+project-id = 1798738

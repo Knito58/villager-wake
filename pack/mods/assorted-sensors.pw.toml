@@ -1,13 +1,13 @@
 name = "Assorted Sensors"
-filename = "assortedsensors-fabric-26.3-2.0.0.jar"
+filename = "assortedsensors-fabric-26.3-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "877f446bffbef57427466e4011b72efefa3ec852"
+hash = "119c9d47a30952b9d7f1b26353aecacd957bb5de"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9310763
+file-id = 9809877
 project-id = 1728778

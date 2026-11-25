@@ -1,13 +1,13 @@
 name = "RFTools Power"
-filename = "rftoolspower-fabric-26.3-10.0.2-fabric.jar"
+filename = "rftoolspower-fabric-26.3-10.0.5-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6b811182cffbf09cb8dfd31c1c8a6c6bb43545c8"
+hash = "65d7c8dcdf07409d1ab44265c6ebbc77cc9b8058"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9556937
+file-id = 9769071
 project-id = 290209
