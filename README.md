@@ -19,6 +19,16 @@ A Fabric modpack for Minecraft 26.3 (Fabric Loader 0.20.1, Java 25).
   Waystones, Thief, Configurable Despawn Timer, Your Items Are Safe). They
   are copied into the pack.
 
+## Shaders
+
+Shaders run on the **Atmosphere Iris Fork** (CurseForge project 1798738,
+`prism-index/atmosphere-iris-fork.pw.toml`), which replaces the official Iris
+because Iris has no release for this Minecraft version yet. The fork is based on
+Iris 1.11.6 and keeps the mod id `iris`, so other mods that depend on Iris still
+resolve. It needs Sodium 0.9.x (included) and is not an official Iris build:
+report problems to the Atmosphere author, not to the Iris team. The default
+shader pack is Complementary Unbound; its settings are in `instance/shaderpacks/`.
+
 ## Billboard API (manual download)
 
 Billboard API is not approved on CurseForge, so it is not in `prism-index/`

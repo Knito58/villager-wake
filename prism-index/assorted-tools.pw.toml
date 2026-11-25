@@ -1,19 +1,19 @@
-filename = 'assortedtools-fabric-26.3-13.0.1.jar'
+filename = 'assortedtools-fabric-26.3-13.0.2.jar'
 name = 'Assorted Tools'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Assorted Tools 13.0.1 (Fabric)'
+x-prismlauncher-version-number = 'Assorted Tools 13.0.2 (Fabric)'
 
 [download]
-hash = '209cbe4f67dd36a74884b0d50be5913de7d57a2f'
+hash = 'c3d8594c3dafe0b56f34b363d08c9af8776e983d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9658839
+file-id = 9810723
 project-id = 409802
 
 [[x-prismlauncher-dependencies]]

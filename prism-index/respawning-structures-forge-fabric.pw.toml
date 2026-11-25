@@ -1,21 +1,25 @@
-filename = 'respawningstructures-fabric-26.2-4.5.jar'
+filename = 'respawningstructures-fabric-26.2-4.6.jar'
 name = 'Respawning Structures'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.2', '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'respawningstructures-fabric-26.2-4.5.jar'
+x-prismlauncher-version-number = 'respawningstructures-fabric-26.2-4.6.jar'
 
 [download]
-hash = '4ea4db693a590bb495e7d11e90a7cd2ed014d4b4'
+hash = '789146c60a9a6f116a8e9d93d64339004a3f4ec4'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9592353
+file-id = 9795633
 project-id = 969937
 
 [[x-prismlauncher-dependencies]]
 addonId = '326652'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
 type = 'REQUIRED'

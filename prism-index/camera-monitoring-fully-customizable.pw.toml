@@ -1,19 +1,19 @@
-filename = 'cameramonitoring-fabric-26.3-1.5.16.jar'
+filename = 'cameramonitoring-fabric-26.3-1.5.17.jar'
 name = 'Camera Monitoring'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Camera Monitoring 1.5.16 - Fabric 26.3'
+x-prismlauncher-version-number = 'Camera Monitoring 1.5.17 - Fabric 26.3'
 
 [download]
-hash = 'c5948159546ec878cbb37df32f2ac9a47a073c34'
+hash = '71423c1495e9ee7e7a280e4f9eaef86050e235bc'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9676079
+file-id = 9756278
 project-id = 1686878
 
 [[x-prismlauncher-dependencies]]

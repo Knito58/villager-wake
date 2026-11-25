@@ -1,19 +1,19 @@
-filename = 'Copycats-CreateFly-26.3-v1.18-beta-updated.jar'
-name = 'Create Fly: Copycats+  Port'
+filename = 'Copycats-CreateFly-26.3-v1.19.jar'
+name = 'Create: Copycats+ (CreateFly Port)'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Copycats-CreateFly-26.3-v1.18-beta-updated.jar'
+x-prismlauncher-version-number = 'Copycats-CreateFly-26.3-v1.19.jar'
 
 [download]
-hash = 'e297b4f0a5d7d57c4f0b4c3b337e829ef2ad3392'
+hash = '02795728ac24528eccc5a3ba8eb45f26db5564bc'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9605184
+file-id = 9803553
 project-id = 1569572
 
 [[x-prismlauncher-dependencies]]
