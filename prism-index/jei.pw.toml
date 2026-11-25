@@ -1,25 +1,25 @@
-filename = 'jei-26.3-fabric-31.18.0.118.jar'
+filename = 'jei-26.3-fabric-31.23.0.130.jar'
 name = 'Just Enough Items'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '31.18.0.118 for Fabric 26.3'
+x-prismlauncher-version-number = '31.23.0.130 for Fabric 26.3'
 
 [download]
-hash = '729b3ad78e7df150a86731a4f118614a63fcf45d'
+hash = 'ccf7dcdc0e681898e617474234c4c4ac6d4304fb'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9701773
+file-id = 9789976
 project-id = 238222
-
-[[x-prismlauncher-dependencies]]
-addonId = '1689768'
-type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '1700987'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1689768'
+type = 'REQUIRED'

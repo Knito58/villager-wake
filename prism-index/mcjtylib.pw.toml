@@ -1,20 +1,24 @@
-filename = 'mcjtylib-fabric-26.3-11.0.5-fabric.jar'
+filename = 'mcjtylib-fabric-26.3-11.0.6-fabric.jar'
 name = 'McJtyLib'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'McJtyLib - 26.3-11.0.5-fabric'
+x-prismlauncher-version-number = 'McJtyLib - 26.3-11.0.6-fabric'
 
 [download]
-hash = '2a5b97f6956a4b50398f18eb3dacc37312667b07'
+hash = '1350449aa715a03c39b29a5200e470d22696c709'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9556875
+file-id = 9752952
 project-id = 233105
+
+[[x-prismlauncher-dependencies]]
+addonId = '245211'
+type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '547434'
@@ -23,7 +27,3 @@ type = 'REQUIRED'
 [[x-prismlauncher-dependencies]]
 addonId = '306612'
 type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '245211'
-type = 'OPTIONAL'

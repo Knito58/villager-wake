@@ -1,19 +1,19 @@
-filename = 'journeymap-fabric-26.3-6.0.10.jar'
-name = 'JourneyMap'
+filename = 'journeymap-fabric-26.3-6.0.11.jar'
+name = 'Journeymap'
 side = ''
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'journeymap-26.3-6.0.10+fabric'
+x-prismlauncher-version-number = 'journeymap-26.3-6.0.11+fabric'
 
 [download]
-hash = '8fb9d3039e0acca2e1d5f5ced71ab5aaac22fdf8'
+hash = '1c3167ce5ae4d93dae174a767537789f7bc6ddd2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9049820
+file-id = 9743453
 project-id = 32274
 
 [[x-prismlauncher-dependencies]]

@@ -1,25 +1,25 @@
-filename = 'puzzleslib-v26.3.18-mc26.3.x-fabric.jar'
+filename = 'puzzleslib-v26.3.19-mc26.3.x-fabric.jar'
 name = 'Puzzles Lib'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'v26.3.18-mc26.3.x+fabric'
+x-prismlauncher-version-number = 'v26.3.19-mc26.3.x+fabric'
 
 [download]
-hash = '3819387e2da9c584b5e34df6c31d903b3deb21ba'
+hash = '55fda18d4f90799340ccc0c61769a9ea4e3a9495'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9575803
+file-id = 9807481
 project-id = 495476
 
 [[x-prismlauncher-dependencies]]
-addonId = '547434'
+addonId = '306612'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '306612'
+addonId = '547434'
 type = 'REQUIRED'

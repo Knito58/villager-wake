@@ -1,28 +1,20 @@
-filename = 'rftoolsbase-fabric-26.3-9.0.2-fabric.jar'
+filename = 'rftoolsbase-fabric-26.3-9.0.3-fabric.jar'
 name = 'RFToolsBase'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'RFToolsBase - 26.3-9.0.2-fabric'
+x-prismlauncher-version-number = 'RFToolsBase - 26.3-9.0.3-fabric'
 
 [download]
-hash = '5aa80dd20d48b2f8c2ad629b55d635784e81a66d'
+hash = 'bba8662198ebaa9eb995a1dd0cd59ffea722e8fc'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 9556910
+file-id = 9753065
 project-id = 326041
-
-[[x-prismlauncher-dependencies]]
-addonId = '245211'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '233105'
-type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '547434'
@@ -30,4 +22,12 @@ type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '245211'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '233105'
 type = 'REQUIRED'
